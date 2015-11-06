@@ -1,0 +1,729 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-10-06 09:37-0400\n"
+"Last-Translator: \n"
+"Language-Team: EMAIL@ADDRESS\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.5\n"
+
+#: Controller/MedicamentsController.php:37;73;104
+msgid "Invalid medicament"
+msgstr "Medicamento no válido"
+
+#: Controller/MedicamentsController.php:53;77
+msgid "The medicament has been saved"
+msgstr "El medicamento se ha guardado"
+
+#: Controller/MedicamentsController.php:56;80
+msgid "The medicament could not be saved. Please, try again."
+msgstr ""
+"El usuario no pudo ser guardado. Por favor, intente de nuevo mas tarde."
+
+#: Controller/MedicamentsController.php:107
+msgid "Medecins deleted"
+msgstr "Rencontre eliminado"
+
+#: Controller/MedicamentsController.php:110
+msgid "Medecins was not deleted"
+msgstr "No se eliminó la Rencontre"
+
+#: Controller/PatientsController.php:40;77;108
+msgid "Invalid patient"
+msgstr "Paciente inválido"
+
+#: Controller/PatientsController.php:56
+msgid "Patient saved."
+msgstr "El paciente se ha guardado"
+
+#: Controller/PatientsController.php:81
+msgid "The patient has been saved."
+msgstr "El paciente se ha guardado"
+
+#: Controller/PatientsController.php:111
+msgid "Patient deleted"
+msgstr "Paciente eliminada"
+
+#: Controller/PatientsController.php:113
+msgid "Patient was not deleted"
+msgstr "Paciente no fue eliminado"
+
+#: Controller/PatientsMedicamentsController.php:37;73;105
+msgid "Invalid patients medecin"
+msgstr "Medecin pacientes no válido"
+
+#: Controller/PatientsMedicamentsController.php:52;77
+msgid "The patients medecin has been saved"
+msgstr "Se ha guardado la medecin de pacientes"
+
+#: Controller/PatientsMedicamentsController.php:55;80
+msgid "The patients medecin could not be saved. Please, try again."
+msgstr ""
+"La medecin pacientes no podría ser ahorrada. Por favor, inténtelo de nuevo."
+
+#: Controller/PatientsMedicamentsController.php:108
+msgid "Patients medecin deleted"
+msgstr "Medecin pacientes eliminado"
+
+#: Controller/PatientsMedicamentsController.php:111
+msgid "Patients medecin was not deleted"
+msgstr "Pacientes medecin no se eliminó"
+
+#: Controller/RencontresController.php:37;72;103
+msgid "Invalid rencontre"
+msgstr "Rencontre no válido"
+
+#: Controller/RencontresController.php:52;76
+msgid "The rencontre has been saved"
+msgstr "Se ha guardado el rencontre"
+
+#: Controller/RencontresController.php:55;79
+msgid "The rencontre could not be saved. Please, try again."
+msgstr ""
+"El usuario no pudo ser guardado. Por favor, intente de nuevo mas tarde."
+
+#: Controller/RencontresController.php:106
+msgid "Rencontre deleted"
+msgstr "Rencontre eliminado"
+
+#: Controller/RencontresController.php:109
+msgid "Rencontre was not deleted"
+msgstr "No se eliminó la Rencontre"
+
+#: Controller/UsersController.php:26
+msgid "Nom d'user ou mot de passe invalide, réessayer"
+msgstr "Nombre de usuario y una contraseña no válida"
+
+#: Controller/UsersController.php:56;89;118
+msgid "Invalid user"
+msgstr "Usuario no válido."
+
+#: Controller/UsersController.php:71;93
+msgid "The user has been saved"
+msgstr "El usuario ha sido guardado"
+
+#: Controller/UsersController.php:74;96
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+"El usuario no pudo ser guardado. Por favor, intente de nuevo mas tarde."
+
+#: Controller/UsersController.php:121
+msgid "User deleted"
+msgstr "Usuario eliminado"
+
+#: Controller/UsersController.php:124
+msgid "User was not deleted"
+msgstr "Usuario no fue eliminado"
+
+#: Plugin/I18n/Controller/TranslationsController.php:146
+msgid "The translation has been saved"
+msgstr "La traducción se ha guardado"
+
+#: Plugin/I18n/Controller/TranslationsController.php:167;190
+msgid "Translation saved"
+msgstr "Traducción guardada"
+
+#: Plugin/I18n/Controller/TranslationsController.php:210
+msgid "Translation deleted"
+msgstr "Traducción de borrado"
+
+#: Plugin/I18n/Model/Translation.php:112
+msgid "Could not save the translation, please check your inputs."
+msgstr "Podría no guardar la traducción, por favor revise las entradas."
+
+#: Plugin/I18n/Model/Translation.php:134;171;215;237
+msgid "Invalid Translation"
+msgstr "Traducción no válida"
+
+#: Plugin/I18n/Model/Translation.php:255
+msgid "You need to confirm to delete this Translation"
+msgstr "Usted necesita confirmar para borrar esta traducción"
+
+#: Plugin/I18n/View/Translations/admin_add.ctp:4
+msgid "Admin Add Translation"
+msgstr "Admin añadir traducción"
+
+#: Plugin/I18n/View/Translations/admin_add.ctp:17
+#: Plugin/I18n/View/Translations/admin_edit.ctp:19
+#: Plugin/I18n/View/Translations/admin_edit_multi.ctp:26
+#: Plugin/I18n/View/Translations/admin_view.ctp:40
+msgid "List Translations"
+msgstr "Traducciones de lista"
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:1
+msgid "Delete Translation \"%s\"?"
+msgstr "¿Eliminar traducción \"%s\"?"
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:3
+msgid ""
+"Be aware that your Translation and all associated data will be deleted if "
+"you confirm!"
+msgstr ""
+"Ten en cuenta que su traducción y sus datos asociados se eliminará si "
+"confirmas!"
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:11
+msgid "Confirm"
+msgstr "Confirmar"
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:13
+msgid "You have to confirm."
+msgstr "Tienes que confirmar."
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:14
+msgid "Continue"
+msgstr "Continuar"
+
+#: Plugin/I18n/View/Translations/admin_edit.ctp:4
+#: Plugin/I18n/View/Translations/admin_edit_multi.ctp:4
+msgid "Admin Edit Translation"
+msgstr "admin Edit traducción"
+
+#: Plugin/I18n/View/Translations/admin_edit.ctp:18
+#: Plugin/I18n/View/Translations/admin_index.ctp:70 View/Medicaments/edit.ctp:9
+#: View/Medicaments/index.ctp:59 View/Medicaments/view.ctp:95
+#: View/Patients/edit.ctp:9 View/Patients/index.ctp:87
+#: View/Patients/view.ctp:114 View/PatientsMedicaments/edit.ctp:9
+#: View/PatientsMedicaments/index.ctp:49 View/Rencontres/edit.ctp:9
+#: View/Rencontres/index.ctp:69 View/Users/edit.ctp:9 View/Users/index.ctp:47
+msgid "Delete"
+msgstr "Borrar"
+
+#: Plugin/I18n/View/Translations/admin_edit_multi.ctp:22
+msgid "Submit"
+msgstr "Enviar"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:2
+msgid "Translations"
+msgstr "Traducciones"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:6
+#: View/Medicaments/index.ctp:70 View/Patients/index.ctp:99
+#: View/PatientsMedicaments/index.ctp:60 View/Rencontres/index.ctp:81
+#: View/Users/index.ctp:61
+msgid ""
+"Page {:page} of {:pages}, showing {:current} records out of {:count} total, "
+"starting on record {:start}, ending on {:end}"
+msgstr ""
+"Página {:page} de {:pages}, mostrando {:current} registros de {:count} en "
+"total, empezando desde {:start} y terminando en {:end}"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:17
+msgid "Locale Name"
+msgstr "Nombre de configuración regional"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:20
+msgid "Model Name"
+msgstr "Nombre del modelo"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:23
+#: Plugin/I18n/View/Translations/admin_view.ctp:24
+msgid "Field"
+msgstr "Campo"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:26
+#: Plugin/I18n/View/Translations/admin_view.ctp:29
+msgid "Content"
+msgstr "Contenido"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:28
+msgid "Search"
+msgstr "Buscar"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:40
+#: View/Medicaments/index.ctp:48 View/Medicaments/view.ctp:75
+#: View/Patients/index.ctp:64 View/Patients/view.ctp:100
+#: View/PatientsMedicaments/index.ctp:33 View/Rencontres/index.ctp:54
+#: View/Users/index.ctp:30
+msgid "Actions"
+msgstr "Acciones"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:67
+#: View/Medicaments/index.ctp:57 View/Medicaments/view.ctp:90
+#: View/Patients/index.ctp:85 View/Patients/view.ctp:112
+#: View/PatientsMedicaments/index.ctp:47 View/Rencontres/index.ctp:66
+#: View/Users/index.ctp:42
+msgid "View"
+msgstr "Ver"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:68
+#: View/Medicaments/index.ctp:58 View/Medicaments/view.ctp:94
+#: View/Patients/index.ctp:86 View/Patients/view.ctp:113
+#: View/PatientsMedicaments/index.ctp:48 View/Rencontres/index.ctp:68
+#: View/Users/index.ctp:46
+msgid "Edit"
+msgstr "Editar"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:69
+msgid "Edit All locales for this entry"
+msgstr "Editar todas las configuraciones regionales para esta entrada"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:80
+#: Plugin/I18n/View/Translations/admin_view.ctp:41
+msgid "New Translation"
+msgstr "Nueva traducción"
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:2
+msgid "Translation"
+msgstr "Traducción"
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:4 View/Patients/view.ctp:98
+#: View/PatientsMedicaments/view.ctp:33
+msgid "Id"
+msgstr "Id"
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:9
+msgid "Locale"
+msgstr "Local"
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:14
+msgid "Model"
+msgstr "Modelo"
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:19
+msgid "Foreign Key"
+msgstr "Clave externa"
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:38
+msgid "Edit Translation"
+msgstr "Edición / Traducción"
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:39
+msgid "Delete Translation"
+msgstr "Eliminar traducción"
+
+#: View/Medicaments/add.ctp:7 View/Medicaments/edit.ctp:15
+#: View/Medicaments/index.ctp:6 View/Medicaments/view.ctp:7
+#: View/Patients/add.ctp:7 View/Patients/edit.ctp:15 View/Patients/index.ctp:7
+#: View/Patients/view.ctp:7 View/Rencontres/add.ctp:5
+#: View/Rencontres/edit.ctp:16 View/Rencontres/index.ctp:7
+#: View/Rencontres/view.ctp:6
+msgid "Patients Menu"
+msgstr "Menú de pacientes"
+
+#: View/Medicaments/add.ctp:9 View/Medicaments/edit.ctp:17
+#: View/Medicaments/index.ctp:8 View/Medicaments/view.ctp:9
+#: View/Patients/add.ctp:9 View/Patients/edit.ctp:17 View/Patients/view.ctp:17
+#: View/PatientsMedicaments/add.ctp:10 View/PatientsMedicaments/edit.ctp:11
+#: View/PatientsMedicaments/index.ctp:10 View/PatientsMedicaments/view.ctp:13
+#: View/Rencontres/add.ctp:11 View/Rencontres/edit.ctp:22
+#: View/Rencontres/index.ctp:13 View/Rencontres/view.ctp:15
+msgid "List Patients"
+msgstr "Pacientes de lista"
+
+#: View/Medicaments/add.ctp:10 View/Medicaments/edit.ctp:18
+#: View/Medicaments/index.ctp:13 View/Medicaments/view.ctp:13;111
+#: View/Patients/index.ctp:9 View/Patients/view.ctp:12
+#: View/Rencontres/add.ctp:9 View/Rencontres/edit.ctp:20
+#: View/Rencontres/index.ctp:11 View/Rencontres/view.ctp:11
+msgid "New Patient"
+msgstr "Paciente nuevo"
+
+#: View/Medicaments/add.ctp:15 View/Medicaments/edit.ctp:23
+#: View/Medicaments/index.ctp:22 View/Medicaments/view.ctp:19
+#: View/Patients/add.ctp:22 View/Patients/edit.ctp:30
+#: View/Patients/index.ctp:25 View/Patients/view.ctp:34
+msgid "Medecins Menu"
+msgstr "Menú de médicos"
+
+#: View/Medicaments/add.ctp:17 View/Medicaments/edit.ctp:25
+#: View/Medicaments/index.ctp:31 View/Medicaments/view.ctp:21
+#: View/Patients/add.ctp:24 View/Patients/edit.ctp:32
+#: View/Patients/index.ctp:27 View/Patients/view.ctp:36
+#: View/PatientsMedicaments/add.ctp:12 View/PatientsMedicaments/edit.ctp:13
+#: View/PatientsMedicaments/index.ctp:12 View/PatientsMedicaments/view.ctp:15
+msgid "List Medecins"
+msgstr "Medicamentos de la lista"
+
+#: View/Medicaments/add.ctp:28
+msgid "Add Medecins"
+msgstr "Añadir a médicos"
+
+#: View/Medicaments/edit.ctp:9 View/Medicaments/index.ctp:59
+#: View/Medicaments/view.ctp:24;95 View/Patients/edit.ctp:9
+#: View/Patients/index.ctp:87 View/Patients/view.ctp:13;114
+#: View/PatientsMedicaments/edit.ctp:9 View/PatientsMedicaments/index.ctp:49
+#: View/PatientsMedicaments/view.ctp:10 View/Rencontres/edit.ctp:9
+#: View/Rencontres/index.ctp:69 View/Rencontres/view.ctp:25
+#: View/Users/edit.ctp:9 View/Users/index.ctp:47 View/Users/view.ctp:11
+msgid "Are you sure you want to delete # %s?"
+msgstr "Está seguro de que desea eliminar?"
+
+#: View/Medicaments/edit.ctp:37 View/Medicaments/view.ctp:23
+msgid "Edit Medecin"
+msgstr "Editar medecin"
+
+#: View/Medicaments/index.ctp:27 View/Medicaments/view.ctp:25
+#: View/Patients/add.ctp:25 View/Patients/edit.ctp:33
+#: View/Patients/index.ctp:30 View/Patients/view.ctp:38;126
+msgid "New Medecin"
+msgstr "Medecin nuevo"
+
+#: View/Medicaments/index.ctp:40 View/PatientsMedicaments/view.ctp:43
+msgid "Medecins"
+msgstr "Medicamentos"
+
+#: View/Medicaments/index.ctp:77 View/Patients/index.ctp:106
+#: View/PatientsMedicaments/index.ctp:67 View/Rencontres/index.ctp:88
+#: View/Users/index.ctp:68
+msgid "Previous"
+msgstr "Anterior"
+
+#: View/Medicaments/index.ctp:79 View/Patients/index.ctp:108
+#: View/PatientsMedicaments/index.ctp:69 View/Rencontres/index.ctp:90
+#: View/Users/index.ctp:70
+msgid "Next"
+msgstr "Siguiente"
+
+#: View/Medicaments/view.ctp:24
+msgid "Delete Medecin"
+msgstr "Eliminar medecin"
+
+#: View/Medicaments/view.ctp:36
+msgid "Medecin"
+msgstr "Medecin"
+
+#: View/Medicaments/view.ctp:42
+msgid "Identifiant du medicament:"
+msgstr "Identifiant du medicamento:"
+
+#: View/Medicaments/view.ctp:48
+msgid "Nom:"
+msgstr "Nombre:"
+
+#: View/Medicaments/view.ctp:62
+msgid "Related Patients"
+msgstr "Relacionados con pacientes"
+
+#: View/Medicaments/view.ctp:71 View/Patients/view.ctp:66;99
+msgid "Nom"
+msgstr "Nombre"
+
+#: View/Medicaments/view.ctp:72 View/Patients/view.ctp:71
+#: View/Users/view.ctp:53
+msgid "Created"
+msgstr "Creado"
+
+#: View/Medicaments/view.ctp:73 View/Patients/view.ctp:76
+#: View/Users/view.ctp:58
+msgid "Modified"
+msgstr "Modificado"
+
+#: View/Patients/add.ctp:14 View/Patients/edit.ctp:22
+#: View/Patients/index.ctp:15 View/Patients/view.ctp:22 View/Users/add.ctp:6
+#: View/Users/edit.ctp:13 View/Users/index.ctp:7 View/Users/view.ctp:20
+msgid "Employes Menu"
+msgstr "Lista de empleados"
+
+#: View/Patients/add.ctp:16 View/Patients/edit.ctp:24
+#: View/Patients/index.ctp:17 View/Patients/view.ctp:24 View/Users/add.ctp:8
+#: View/Users/edit.ctp:15 View/Users/view.ctp:22
+msgid "List Employes"
+msgstr "Lista de empleados"
+
+#: View/Patients/add.ctp:17 View/Patients/edit.ctp:25
+#: View/Patients/index.ctp:19 View/Patients/view.ctp:27
+msgid "New Employes"
+msgstr "Nuevos empleados"
+
+#: View/Patients/add.ctp:31 View/Patients/edit.ctp:39
+#: View/Patients/index.ctp:37 View/Patients/view.ctp:44
+#: View/Rencontres/add.ctp:16 View/Rencontres/edit.ctp:27
+#: View/Rencontres/index.ctp:18 View/Rencontres/view.ctp:20
+msgid "Appointments Menu"
+msgstr "Menú de citas"
+
+#: View/Patients/add.ctp:34 View/Patients/edit.ctp:42
+#: View/Patients/index.ctp:40 View/Patients/view.ctp:47
+#: View/Rencontres/edit.ctp:30 View/Rencontres/index.ctp:20
+#: View/Rencontres/view.ctp:26
+msgid "New Appointment"
+msgstr "Nueva Cita"
+
+#: View/Patients/add.ctp:36 View/Patients/edit.ctp:44
+#: View/Patients/index.ctp:42 View/Patients/view.ctp:49
+#: View/Rencontres/add.ctp:18 View/Rencontres/edit.ctp:32
+#: View/Rencontres/view.ctp:30
+msgid "List Appointments"
+msgstr "Lista de citas"
+
+#: View/Patients/add.ctp:44
+msgid "Add Patient"
+msgstr "Añadir paciente"
+
+#: View/Patients/edit.ctp:54
+msgid "Edit Patient"
+msgstr "Editar el paciente"
+
+#: View/Patients/index.ctp:52 View/PatientsMedicaments/view.ctp:38
+msgid "Patients"
+msgstr "Pacientes"
+
+#: View/Patients/view.ctp:13
+msgid "Delete Patient"
+msgstr "¿Borrar paciente?"
+
+#: View/Patients/view.ctp:61 View/Rencontres/view.ctp:53
+msgid "Patient"
+msgstr "Paciente"
+
+#: View/Patients/view.ctp:90
+msgid "Related Medecins"
+msgstr "Relacionados con los medicamentos"
+
+#: View/PatientsMedicaments/add.ctp:9 View/PatientsMedicaments/edit.ctp:10
+#: View/PatientsMedicaments/view.ctp:11
+msgid "List Patients Medecins"
+msgstr "Lista medicamentos de pacientes"
+
+#: View/PatientsMedicaments/add.ctp:11 View/PatientsMedicaments/edit.ctp:12
+#: View/PatientsMedicaments/index.ctp:11 View/PatientsMedicaments/view.ctp:14
+msgid "New Patients"
+msgstr "Nuevos pacientes"
+
+#: View/PatientsMedicaments/add.ctp:13 View/PatientsMedicaments/edit.ctp:14
+#: View/PatientsMedicaments/index.ctp:13 View/PatientsMedicaments/view.ctp:16
+msgid "New Medecins"
+msgstr "Medicamentos nuevos"
+
+#: View/PatientsMedicaments/add.ctp:22
+msgid "Add Patients Medecin"
+msgstr "Añadir a medecin de pacientes"
+
+#: View/PatientsMedicaments/edit.ctp:23 View/PatientsMedicaments/view.ctp:9
+msgid "Edit Patients Medecin"
+msgstr "Editar pacientes medecin"
+
+#: View/PatientsMedicaments/index.ctp:9 View/PatientsMedicaments/view.ctp:12
+msgid "New Patients Medecin"
+msgstr "Nuevos pacientes medecin"
+
+#: View/PatientsMedicaments/index.ctp:24
+msgid "Patients Medecins"
+msgstr "Medicamentos de pacientes"
+
+#: View/PatientsMedicaments/view.ctp:10
+msgid "Delete Patients Medecin"
+msgstr "Eliminar pacientes medecin"
+
+#: View/PatientsMedicaments/view.ctp:28
+msgid "Patients Medecin"
+msgstr "Medecin de pacientes"
+
+#: View/Rencontres/add.ctp:26
+msgid "Add Appointment"
+msgstr "Añadir nueva hora"
+
+#: View/Rencontres/edit.ctp:52 View/Rencontres/view.ctp:24
+msgid "Edit Appointment"
+msgstr "Editar cita"
+
+#: View/Rencontres/index.ctp:45
+msgid "Appointments"
+msgstr "Citas"
+
+#: View/Rencontres/view.ctp:25
+msgid "Delete Appointment"
+msgstr "Borrar cita"
+
+#: View/Rencontres/view.ctp:43
+msgid "Appointment"
+msgstr "Cita"
+
+#: View/Rencontres/view.ctp:48
+msgid "Date"
+msgstr "Fecha y hora del evento"
+
+#: View/Themed/Cakestrap/Elements/menu/top_menu.ctp:9
+msgid "Medical Center"
+msgstr "Polo Hospitalario"
+
+#: View/Themed/Cakestrap/Elements/menu/top_menu.ctp:18
+msgid "Hello "
+msgstr "Hola  "
+
+#: View/Themed/Cakestrap/Elements/menu/top_menu.ctp:27
+msgid "[Logout]"
+msgstr "[Cerrar Sesión]"
+
+#: View/Themed/Cakestrap/Elements/menu/top_menu.ctp:31
+msgid "[Login]"
+msgstr "[Acceder]"
+
+#: View/Themed/Cakestrap/Elements/menu/top_menu.ctp:40
+msgid "Language"
+msgstr "Idioma"
+
+#: View/Users/add.ctp:15
+msgid "Add Employe"
+msgstr "Agregar empleado"
+
+#: View/Users/edit.ctp:27
+msgid "Edit User"
+msgstr "Editar Usuario"
+
+#: View/Users/index.ctp:9 View/Users/view.ctp:25
+msgid "New Employe"
+msgstr "Nuevo empleado"
+
+#: View/Users/index.ctp:19
+msgid "Users"
+msgstr "Usuarios"
+
+#: View/Users/login.ctp:6
+msgid "Please enter your username and password"
+msgstr "Por favor, introduzca su nombre de usuario y contraseña."
+
+#: View/Users/login.ctp:13
+msgid "Login"
+msgstr "Ingresar"
+
+#: View/Users/view.ctp:11
+msgid "Delete Employe"
+msgstr "Agregar empleado"
+
+#: View/Users/view.ctp:24
+msgid "Edit Employe"
+msgstr "Agregar empleado"
+
+#: View/Users/view.ctp:35
+msgid "User"
+msgstr "Usuario"
+
+#: View/Users/view.ctp:41
+msgid "Username"
+msgstr "Nombre de Usuario"
+
+#: View/Users/view.ctp:48
+msgid "Role"
+msgstr "Cargo"
+
+#: Model/Medicament.php:validation for field nom Model/Patient.php:validation
+#: Model/User.php:validation username;validation password;validation role
+msgid "notBlank"
+msgstr "no Vacío"
+
+#: Model/Patient.php:validation for field created;validation modified
+#: Model/User.php:validation
+msgid "datetime"
+msgstr "Fecha y hora"
+
+#: Model/PatientsMedicament.php:validation for field patients_id;validation
+#: medicaments_id Model/Rencontre.php:validation patient_id
+msgid "numeric"
+msgstr "número"
+
+#: Model/Rencontre.php:validation for field date
+msgid "date"
+msgstr "día"
+
+#: Model/User.php:validation for field password
+msgid "alphaNumeric"
+msgstr "Alfanumérico"
+
+#: Plugin/I18n/Model/Translation.php:validation for field locale
+msgid "Please enter a Locale"
+msgstr "Introduce un escenario"
+
+#: Plugin/I18n/Model/Translation.php:validation for field model
+msgid "Please enter a Model"
+msgstr "Introduce un modelo"
+
+#: Plugin/I18n/Model/Translation.php:validation for field foreign_key
+msgid "Please enter a Foreign Key"
+msgstr "Introduce una clave externa"
+
+#: Plugin/I18n/Model/Translation.php:validation for field
+msgid "Please enter a Field"
+msgstr "Introduce un campo"
+
+#~ msgid "Home"
+#~ msgstr "Inicio"
+
+#~ msgid "List Rencontres"
+#~ msgstr "Rencontres de la lista"
+
+#~ msgid "Add Rencontre"
+#~ msgstr "Añadir Rencontre"
+
+#~ msgid "Edit Rencontre"
+#~ msgstr "Editar Rencontre"
+
+#~ msgid "New Rencontre"
+#~ msgstr "Rencontre nuevo"
+
+#~ msgid "Rencontres"
+#~ msgstr "Rencontres"
+
+#~ msgid "Delete Rencontre"
+#~ msgstr "Eliminar Rencontre"
+
+#~ msgid "Rencontre"
+#~ msgstr "Rencontre"
+
+#~ msgid "Dropdown"
+#~ msgstr "Desplegable"
+
+#~ msgid "Invalid medecin"
+#~ msgstr "Medecin no válido"
+
+#~ msgid "The medecin has been saved"
+#~ msgstr "Se ha guardado la medecin"
+
+#~ msgid "The medecin could not be saved. Please, try again."
+#~ msgstr ""
+#~ "El usuario no pudo ser guardado. Por favor, intente de nuevo mas tarde."
+
+#~ msgid "medecin deleted"
+#~ msgstr "Medecin eliminado"
+
+#~ msgid "medecin was not deleted"
+#~ msgstr "Medecin fue borrado no"
+
+#~ msgid "The patient has been saved"
+#~ msgstr "El paciente se ha guardado"
+
+#~ msgid "The patient could not be saved. Please, try again."
+#~ msgstr ""
+#~ "El usuario no pudo ser guardado. Por favor, intente de nuevo mas tarde."
+
+#~ msgid "Add medecin"
+#~ msgstr "Añadir medecin"
+
+#~ msgid "Edit medecin"
+#~ msgstr "Editar medecin"
+
+#~ msgid "Delete medecin"
+#~ msgstr "Eliminar medecin"
+
+#~ msgid "medecin"
+#~ msgstr "Medecin"
+
+#~ msgid "Identifiant du medecin:"
+#~ msgstr "Identifiant du medecin:"
+
+#~ msgid "Add Patients medecin"
+#~ msgstr "Añadir a medecin de pacientes"
+
+#~ msgid "Edit Patients medecin"
+#~ msgstr "Editar pacientes medecin"
+
+#~ msgid "New Patients medecin"
+#~ msgstr "Nuevos pacientes medecin"
+
+#~ msgid "Delete Patients medecin"
+#~ msgstr "Eliminar pacientes medecin"
+
+#~ msgid "Patients medecin"
+#~ msgstr "Medecin de pacientes"
+
+#~ msgid "Delete User"
+#~ msgstr "Eliminar usuario"

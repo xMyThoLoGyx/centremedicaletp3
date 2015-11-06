@@ -1,0 +1,937 @@
+
+<!DOCTYPE html> 
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />        <title>
+            CakePHP: the rapid development php framework:
+            Errors        </title>
+        <link href="/centremedicale/favicon.ico" type="image/x-icon" rel="icon"/><link href="/centremedicale/favicon.ico" type="image/x-icon" rel="shortcut icon"/><link rel="stylesheet" type="text/css" href="/centremedicale/theme/Cakestrap/css/bootstrap.css"/><link rel="stylesheet" type="text/css" href="/centremedicale/theme/Cakestrap/css/main.css"/><script type="text/javascript" src="/centremedicale/theme/Cakestrap/js/libs/jquery-1.10.2.min.js"></script><script type="text/javascript" src="/centremedicale/theme/Cakestrap/js/libs/bootstrap.min.js"></script>    </head>
+
+    <body>
+
+        <div id="main-container">
+
+            <div id="header" class="container">
+                <nav class="navbar navbar-default" role="navigation">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button><!-- /.navbar-toggle -->
+		<a href="/centremedicale/fra/patients" class="navbar-brand">Centre Médical</a>    </div><!-- /.navbar-header -->
+    <div class="collapse navbar-collapse navbar-ex1-collapse">
+        <ul class="nav navbar-nav">
+            <li class="active">
+                <a href="/centremedicale/fra/users/view/9">Bonjour  admin</a></li><li><a href="/centremedicale/fra/users/add">[Add Employe]</a></li><li><a href="/centremedicale/fra/users/logout">[Déconnexion]</a>            </li>
+
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Langue<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                    <ul class="languages" id="language-switcher"><li class="eng"><a href="/centremedicale/eng/sections/getByEtage"><img src="/centremedicale/i18n/img/flags/en.png" alt=""/></a></li><li class="fra selected"><a href="/centremedicale/fra/sections/getByEtage"><img src="/centremedicale/i18n/img/flags/fr.png" alt=""/></a></li><li class="spa"><a href="/centremedicale/spa/sections/getByEtage"><img src="/centremedicale/i18n/img/flags/es.png" alt=""/></a></li></ul>                </ul>
+            </li>
+        </ul><!-- /.nav navbar-nav -->
+    </div><!-- /.navbar-collapse -->
+</nav><!-- /.navbar navbar-default -->            </div><!-- /#header .container -->
+
+            <div id="content" class="container">
+                                             
+                <h2>Missing View</h2>
+<p class="error">
+	<strong>Error: </strong>
+	The view for <em>SectionsController::</em><em>getByEtage()</em> was not found.</p>
+
+<p>
+	Confirm you have created the file: Sections\get_by_etage.ctp	in one of the following paths:
+</p>
+<ul>
+<li>C:\UniServerZ\www\centremedicale\app\View\Themed\Cakestrap\Sections\get_by_etage.ctp</li><li>C:\UniServerZ\www\centremedicale\app\View\Sections\get_by_etage.ctp</li></ul>
+
+<p class="notice">
+	<strong>Notice: </strong>
+	If you want to customize this error message, create app\View\Errors\missing_view.ctp</p>
+
+<h3>Stack Trace</h3>
+<ul class="cake-stack-trace">
+	<li><a href="#" onclick="traceToggle(event, 'file-excerpt-0')">CORE\Cake\View\View.php line 470</a> &rarr; <a href="#" onclick="traceToggle(event, 'trace-args-0')">View->_getViewFileName(null)</a> <div id="file-excerpt-0" class="cake-code-dump" style="display:none;"><pre><code><span style="color: #000000"><span style="color: #0000BB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #007700">return;</span></span></code>
+<code><span style="color: #000000"><span style="color: #0000BB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #007700">}</span></span></code>
+<code><span style="color: #000000"><span style="color: #0000BB"></span></span></code>
+<span class="code-highlight"><code><span style="color: #000000"><span style="color: #0000BB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #007700">if&nbsp;(</span><span style="color: #0000BB">$view&nbsp;</span><span style="color: #007700">!==&nbsp;</span><span style="color: #0000BB">false&nbsp;</span><span style="color: #007700">&amp;&amp;&nbsp;</span><span style="color: #0000BB">$viewFileName&nbsp;</span><span style="color: #007700">=&nbsp;</span><span style="color: #0000BB">$this</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">_getViewFileName</span><span style="color: #007700">(</span><span style="color: #0000BB">$view</span><span style="color: #007700">))&nbsp;{</span></span></code></span>
+<code><span style="color: #000000"><span style="color: #0000BB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$this</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">_currentType&nbsp;</span><span style="color: #007700">=&nbsp;static::</span><span style="color: #0000BB">TYPE_VIEW</span><span style="color: #007700">;</span></span></code></pre></div> <div id="trace-args-0" class="cake-code-dump" style="display: none;"><pre>null</pre></div></li>
+	<li><a href="#" onclick="traceToggle(event, 'file-excerpt-1')">CORE\Cake\Controller\Controller.php line 960</a> &rarr; <a href="#" onclick="traceToggle(event, 'trace-args-1')">View->render(null, null)</a> <div id="file-excerpt-1" class="cake-code-dump" style="display:none;"><pre><code><span style="color: #000000"><span style="color: #0000BB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #007700">}</span></span></code>
+<code><span style="color: #000000"><span style="color: #0000BB"></span></span></code>
+<code><span style="color: #000000"><span style="color: #0000BB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$this</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">autoRender&nbsp;</span><span style="color: #007700">=&nbsp;</span><span style="color: #0000BB">false</span><span style="color: #007700">;</span></span></code>
+<span class="code-highlight"><code><span style="color: #000000"><span style="color: #0000BB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$this</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">response</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">body</span><span style="color: #007700">(</span><span style="color: #0000BB">$this</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">View</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">render</span><span style="color: #007700">(</span><span style="color: #0000BB">$view</span><span style="color: #007700">,&nbsp;</span><span style="color: #0000BB">$layout</span><span style="color: #007700">));</span></span></code></span>
+<code><span style="color: #000000"><span style="color: #0000BB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #007700">return&nbsp;</span><span style="color: #0000BB">$this</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">response</span><span style="color: #007700">;</span></span></code></pre></div> <div id="trace-args-1" class="cake-code-dump" style="display: none;"><pre>null
+null</pre></div></li>
+	<li><a href="#" onclick="traceToggle(event, 'file-excerpt-2')">CORE\Cake\Routing\Dispatcher.php line 200</a> &rarr; <a href="#" onclick="traceToggle(event, 'trace-args-2')">Controller->render()</a> <div id="file-excerpt-2" class="cake-code-dump" style="display:none;"><pre><code><span style="color: #000000"><span style="color: #0000BB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #007700">}</span></span></code>
+<code><span style="color: #000000"><span style="color: #0000BB"></span></span></code>
+<code><span style="color: #000000"><span style="color: #0000BB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #007700">if&nbsp;(</span><span style="color: #0000BB">$render&nbsp;</span><span style="color: #007700">&amp;&amp;&nbsp;</span><span style="color: #0000BB">$controller</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">autoRender</span><span style="color: #007700">)&nbsp;{</span></span></code>
+<span class="code-highlight"><code><span style="color: #000000"><span style="color: #0000BB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$response&nbsp;</span><span style="color: #007700">=&nbsp;</span><span style="color: #0000BB">$controller</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">render</span><span style="color: #007700">();</span></span></code></span>
+<code><span style="color: #000000"><span style="color: #0000BB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #007700">}&nbsp;elseif&nbsp;(!(</span><span style="color: #0000BB">$result&nbsp;</span><span style="color: #007700">instanceof&nbsp;</span><span style="color: #0000BB">CakeResponse</span><span style="color: #007700">)&nbsp;&amp;&amp;&nbsp;</span><span style="color: #0000BB">$response</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">body</span><span style="color: #007700">()&nbsp;===&nbsp;</span><span style="color: #0000BB">null</span><span style="color: #007700">)&nbsp;{</span></span></code></pre></div> <div id="trace-args-2" class="cake-code-dump" style="display: none;"><pre></pre></div></li>
+	<li><a href="#" onclick="traceToggle(event, 'file-excerpt-3')">CORE\Cake\Routing\Dispatcher.php line 167</a> &rarr; <a href="#" onclick="traceToggle(event, 'trace-args-3')">Dispatcher->_invoke(SectionsController, CakeRequest)</a> <div id="file-excerpt-3" class="cake-code-dump" style="display:none;"><pre><code><span style="color: #000000"><span style="color: #0000BB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #007700">));</span></span></code>
+<code><span style="color: #000000"><span style="color: #0000BB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #007700">}</span></span></code>
+<code><span style="color: #000000"><span style="color: #0000BB"></span></span></code>
+<span class="code-highlight"><code><span style="color: #000000"><span style="color: #0000BB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$response&nbsp;</span><span style="color: #007700">=&nbsp;</span><span style="color: #0000BB">$this</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">_invoke</span><span style="color: #007700">(</span><span style="color: #0000BB">$controller</span><span style="color: #007700">,&nbsp;</span><span style="color: #0000BB">$request</span><span style="color: #007700">);</span></span></code></span>
+<code><span style="color: #000000"><span style="color: #0000BB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #007700">if&nbsp;(isset(</span><span style="color: #0000BB">$request</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">params</span><span style="color: #007700">[</span><span style="color: #DD0000">'return'</span><span style="color: #007700">]))&nbsp;{</span></span></code></pre></div> <div id="trace-args-3" class="cake-code-dump" style="display: none;"><pre>object(SectionsController) {
+	helpers =&gt; array(
+		(int) 0 =&gt; &#039;I18n.I18n&#039;,
+		(int) 1 =&gt; &#039;Number&#039;,
+		(int) 2 =&gt; &#039;DebugKit.SimpleGraph&#039;,
+		(int) 3 =&gt; &#039;DebugKit.DebugTimer&#039;,
+		&#039;DebugKit.Toolbar&#039; =&gt; array(
+			&#039;output&#039; =&gt; &#039;DebugKit.FirePhpToolbar&#039;,
+			&#039;cacheKey&#039; =&gt; &#039;toolbar_cachecaa506d4605c38a199d4bda230b50fa7&#039;,
+			&#039;cacheConfig&#039; =&gt; &#039;debug_kit&#039;,
+			&#039;forceEnable&#039; =&gt; false
+		)
+	)
+	theme =&gt; &#039;Cakestrap&#039;
+	components =&gt; array(
+		(int) 0 =&gt; &#039;DebugKit.Toolbar&#039;,
+		(int) 1 =&gt; &#039;Session&#039;,
+		&#039;Auth&#039; =&gt; array(
+			&#039;loginRedirect&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;logoutRedirect&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;unauthorizedRedirect&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;authenticate&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;authorize&#039; =&gt; array(
+				[maximum depth reached]
+			)
+		)
+	)
+	name =&gt; &#039;Sections&#039;
+	uses =&gt; array(
+		(int) 0 =&gt; &#039;Section&#039;
+	)
+	request =&gt; object(CakeRequest) {
+		params =&gt; array(
+			[maximum depth reached]
+		)
+		data =&gt; array(
+			[maximum depth reached]
+		)
+		query =&gt; array([maximum depth reached])
+		url =&gt; &#039;fra/sections/getByEtage&#039;
+		base =&gt; &#039;/centremedicale&#039;
+		webroot =&gt; &#039;/centremedicale/&#039;
+		here =&gt; &#039;/centremedicale/fra/sections/getByEtage&#039;
+		[protected] _detectors =&gt; array(
+			[maximum depth reached]
+		)
+		[protected] _input =&gt; &#039;&#039;
+	}
+	response =&gt; object(CakeResponse) {
+		[protected] _statusCodes =&gt; array(
+			[maximum depth reached]
+		)
+		[protected] _mimeTypes =&gt; array(
+			[maximum depth reached]
+		)
+		[protected] _protocol =&gt; &#039;HTTP/1.1&#039;
+		[protected] _status =&gt; (int) 200
+		[protected] _contentType =&gt; &#039;text/html&#039;
+		[protected] _headers =&gt; array([maximum depth reached])
+		[protected] _body =&gt; null
+		[protected] _file =&gt; null
+		[protected] _fileRange =&gt; null
+		[protected] _charset =&gt; &#039;UTF-8&#039;
+		[protected] _cacheDirectives =&gt; array([maximum depth reached])
+		[protected] _cookies =&gt; array([maximum depth reached])
+	}
+	viewPath =&gt; &#039;Sections&#039;
+	layoutPath =&gt; null
+	viewVars =&gt; array(
+		&#039;debugToolbarPanels&#039; =&gt; array(
+			&#039;history&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;session&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;request&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;sql_log&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;timer&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;log&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;variables&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;environment&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;include&#039; =&gt; array(
+				[maximum depth reached]
+			)
+		),
+		&#039;debugToolbarJavascript&#039; =&gt; array(
+			&#039;libs&#039; =&gt; &#039;DebugKit./js/js_debug_toolbar&#039;
+		),
+		&#039;debugToolbarCss&#039; =&gt; array(
+			(int) 0 =&gt; &#039;DebugKit./css/debug_toolbar.css&#039;
+		),
+		&#039;sections&#039; =&gt; array(
+			(int) 1 =&gt; &#039;100 - 120&#039;,
+			(int) 2 =&gt; &#039;121 - 150&#039;,
+			(int) 5 =&gt; &#039;151 - 180&#039;,
+			(int) 6 =&gt; &#039;181 - 199&#039;
+		)
+	)
+	view =&gt; &#039;getByEtage&#039;
+	layout =&gt; &#039;ajax&#039;
+	autoRender =&gt; false
+	autoLayout =&gt; true
+	Components =&gt; object(ComponentCollection) {
+		defaultPriority =&gt; (int) 10
+		[protected] _Controller =&gt; object(SectionsController) {}
+		[protected] _enabled =&gt; array(
+			[maximum depth reached]
+		)
+		[protected] _loaded =&gt; array(
+			[maximum depth reached]
+		)
+	}
+	viewClass =&gt; &#039;View&#039;
+	View =&gt; object(View) {
+		Helpers =&gt; object(HelperCollection) {}
+		Blocks =&gt; object(ViewBlock) {}
+		plugin =&gt; null
+		name =&gt; &#039;Sections&#039;
+		passedArgs =&gt; array([maximum depth reached])
+		helpers =&gt; array(
+			[maximum depth reached]
+		)
+		viewPath =&gt; &#039;Sections&#039;
+		viewVars =&gt; array(
+			[maximum depth reached]
+		)
+		view =&gt; &#039;getByEtage&#039;
+		layout =&gt; &#039;ajax&#039;
+		layoutPath =&gt; null
+		autoLayout =&gt; true
+		ext =&gt; &#039;.ctp&#039;
+		subDir =&gt; null
+		theme =&gt; &#039;Cakestrap&#039;
+		cacheAction =&gt; false
+		validationErrors =&gt; array(
+			[maximum depth reached]
+		)
+		hasRendered =&gt; false
+		uuids =&gt; array([maximum depth reached])
+		request =&gt; object(CakeRequest) {}
+		response =&gt; object(CakeResponse) {}
+		elementCache =&gt; &#039;default&#039;
+		elementCacheSettings =&gt; array([maximum depth reached])
+		I18n =&gt; object(I18nHelper) {}
+		Number =&gt; object(NumberHelper) {}
+		SimpleGraph =&gt; object(SimpleGraphHelper) {}
+		DebugTimer =&gt; object(DebugTimerHelper) {}
+		Toolbar =&gt; object(ToolbarHelper) {}
+		[protected] _passedVars =&gt; array(
+			[maximum depth reached]
+		)
+		[protected] _scripts =&gt; array([maximum depth reached])
+		[protected] _paths =&gt; array(
+			[maximum depth reached]
+		)
+		[protected] _pathsForPlugin =&gt; array([maximum depth reached])
+		[protected] _parents =&gt; array([maximum depth reached])
+		[protected] _current =&gt; null
+		[protected] _currentType =&gt; &#039;&#039;
+		[protected] _stack =&gt; array([maximum depth reached])
+		[protected] _eventManager =&gt; object(CakeEventManager) {}
+		[protected] _eventManagerConfigured =&gt; false
+	}
+	ext =&gt; &#039;.ctp&#039;
+	plugin =&gt; null
+	cacheAction =&gt; false
+	passedArgs =&gt; array()
+	scaffold =&gt; false
+	methods =&gt; array(
+		(int) 0 =&gt; &#039;getByEtage&#039;,
+		(int) 2 =&gt; &#039;isAuthorized&#039;
+	)
+	modelClass =&gt; &#039;Section&#039;
+	modelKey =&gt; &#039;section&#039;
+	validationErrors =&gt; null
+	Toolbar =&gt; object(ToolbarComponent) {
+		settings =&gt; array(
+			[maximum depth reached]
+		)
+		controller =&gt; object(SectionsController) {}
+		components =&gt; array(
+			[maximum depth reached]
+		)
+		panels =&gt; array(
+			[maximum depth reached]
+		)
+		javascript =&gt; array(
+			[maximum depth reached]
+		)
+		css =&gt; array(
+			[maximum depth reached]
+		)
+		cacheKey =&gt; &#039;toolbar_cachecaa506d4605c38a199d4bda230b50fa7&#039;
+		cacheDuration =&gt; &#039;+4 hours&#039;
+		enabled =&gt; true
+		Session =&gt; object(SessionComponent) {}
+		[protected] _defaultPanels =&gt; array(
+			[maximum depth reached]
+		)
+		[protected] _Collection =&gt; object(ComponentCollection) {}
+		[protected] _componentMap =&gt; array(
+			[maximum depth reached]
+		)
+	}
+	Session =&gt; object(SessionComponent) {
+		settings =&gt; array(
+			[maximum depth reached]
+		)
+		components =&gt; array([maximum depth reached])
+		[protected] _Collection =&gt; object(ComponentCollection) {}
+		[protected] _componentMap =&gt; array([maximum depth reached])
+	}
+	Auth =&gt; object(AuthComponent) {
+		components =&gt; array(
+			[maximum depth reached]
+		)
+		authenticate =&gt; array(
+			[maximum depth reached]
+		)
+		authorize =&gt; array(
+			[maximum depth reached]
+		)
+		ajaxLogin =&gt; null
+		flash =&gt; array(
+			[maximum depth reached]
+		)
+		loginAction =&gt; array(
+			[maximum depth reached]
+		)
+		loginRedirect =&gt; array(
+			[maximum depth reached]
+		)
+		logoutRedirect =&gt; array(
+			[maximum depth reached]
+		)
+		authError =&gt; &#039;You are not authorized to access that location.&#039;
+		unauthorizedRedirect =&gt; array(
+			[maximum depth reached]
+		)
+		allowedActions =&gt; array(
+			[maximum depth reached]
+		)
+		request =&gt; object(CakeRequest) {}
+		response =&gt; object(CakeResponse) {}
+		settings =&gt; array(
+			[maximum depth reached]
+		)
+		Session =&gt; object(SessionComponent) {}
+		[protected] _authenticateObjects =&gt; array([maximum depth reached])
+		[protected] _authorizeObjects =&gt; array(
+			[maximum depth reached]
+		)
+		[protected] _user =&gt; array([maximum depth reached])
+		[protected] _methods =&gt; array(
+			[maximum depth reached]
+		)
+		[protected] _Collection =&gt; object(ComponentCollection) {}
+		[protected] _componentMap =&gt; array(
+			[maximum depth reached]
+		)
+	}
+	Section =&gt; object(Section) {
+		displayField =&gt; &#039;name&#039;
+		belongsTo =&gt; array(
+			[maximum depth reached]
+		)
+		hasMany =&gt; array(
+			[maximum depth reached]
+		)
+		useDbConfig =&gt; &#039;default&#039;
+		useTable =&gt; &#039;sections&#039;
+		id =&gt; false
+		data =&gt; array([maximum depth reached])
+		schemaName =&gt; &#039;centremedicale&#039;
+		table =&gt; &#039;sections&#039;
+		primaryKey =&gt; &#039;id&#039;
+		validate =&gt; array([maximum depth reached])
+		validationErrors =&gt; array([maximum depth reached])
+		validationDomain =&gt; null
+		tablePrefix =&gt; &#039;&#039;
+		plugin =&gt; null
+		name =&gt; &#039;Section&#039;
+		alias =&gt; &#039;Section&#039;
+		tableToModel =&gt; array(
+			[maximum depth reached]
+		)
+		cacheQueries =&gt; false
+		hasOne =&gt; array([maximum depth reached])
+		hasAndBelongsToMany =&gt; array([maximum depth reached])
+		actsAs =&gt; null
+		Behaviors =&gt; object(BehaviorCollection) {}
+		whitelist =&gt; array([maximum depth reached])
+		cacheSources =&gt; true
+		findQueryType =&gt; null
+		recursive =&gt; (int) 1
+		order =&gt; null
+		virtualFields =&gt; array([maximum depth reached])
+		__backAssociation =&gt; array([maximum depth reached])
+		__backInnerAssociation =&gt; array([maximum depth reached])
+		__backOriginalAssociation =&gt; array([maximum depth reached])
+		__backContainableAssociation =&gt; array([maximum depth reached])
+		__safeUpdateMode =&gt; false
+		useConsistentAfterFind =&gt; true
+		findMethods =&gt; array(
+			[maximum depth reached]
+		)
+		[protected] _schema =&gt; array(
+			[maximum depth reached]
+		)
+		[protected] _associationKeys =&gt; array(
+			[maximum depth reached]
+		)
+		[protected] _associations =&gt; array(
+			[maximum depth reached]
+		)
+		[protected] _insertID =&gt; null
+		[protected] _sourceConfigured =&gt; true
+		[protected] _eventManager =&gt; object(CakeEventManager) {}
+		[protected] _validator =&gt; null
+	}
+	[protected] _responseClass =&gt; &#039;CakeResponse&#039;
+	[protected] _mergeParent =&gt; &#039;AppController&#039;
+	[protected] _eventManager =&gt; object(CakeEventManager) {
+		[protected] _generalManager =&gt; object(CakeEventManager) {}
+		[protected] _listeners =&gt; array(
+			[maximum depth reached]
+		)
+		[protected] _isGlobal =&gt; false
+	}
+}
+object(CakeRequest) {
+	params =&gt; array(
+		&#039;plugin&#039; =&gt; null,
+		&#039;controller&#039; =&gt; &#039;sections&#039;,
+		&#039;action&#039; =&gt; &#039;getByEtage&#039;,
+		&#039;named&#039; =&gt; array(),
+		&#039;pass&#039; =&gt; array(),
+		&#039;lang&#039; =&gt; &#039;fra&#039;,
+		&#039;models&#039; =&gt; array(
+			&#039;Section&#039; =&gt; array(
+				[maximum depth reached]
+			)
+		)
+	)
+	data =&gt; array(
+		&#039;Patient&#039; =&gt; array(
+			&#039;etage_id&#039; =&gt; &#039;1&#039;
+		)
+	)
+	query =&gt; array()
+	url =&gt; &#039;fra/sections/getByEtage&#039;
+	base =&gt; &#039;/centremedicale&#039;
+	webroot =&gt; &#039;/centremedicale/&#039;
+	here =&gt; &#039;/centremedicale/fra/sections/getByEtage&#039;
+	[protected] _detectors =&gt; array(
+		&#039;get&#039; =&gt; array(
+			&#039;env&#039; =&gt; &#039;REQUEST_METHOD&#039;,
+			&#039;value&#039; =&gt; &#039;GET&#039;
+		),
+		&#039;post&#039; =&gt; array(
+			&#039;env&#039; =&gt; &#039;REQUEST_METHOD&#039;,
+			&#039;value&#039; =&gt; &#039;POST&#039;
+		),
+		&#039;put&#039; =&gt; array(
+			&#039;env&#039; =&gt; &#039;REQUEST_METHOD&#039;,
+			&#039;value&#039; =&gt; &#039;PUT&#039;
+		),
+		&#039;delete&#039; =&gt; array(
+			&#039;env&#039; =&gt; &#039;REQUEST_METHOD&#039;,
+			&#039;value&#039; =&gt; &#039;DELETE&#039;
+		),
+		&#039;head&#039; =&gt; array(
+			&#039;env&#039; =&gt; &#039;REQUEST_METHOD&#039;,
+			&#039;value&#039; =&gt; &#039;HEAD&#039;
+		),
+		&#039;options&#039; =&gt; array(
+			&#039;env&#039; =&gt; &#039;REQUEST_METHOD&#039;,
+			&#039;value&#039; =&gt; &#039;OPTIONS&#039;
+		),
+		&#039;ssl&#039; =&gt; array(
+			&#039;env&#039; =&gt; &#039;HTTPS&#039;,
+			&#039;value&#039; =&gt; (int) 1
+		),
+		&#039;ajax&#039; =&gt; array(
+			&#039;env&#039; =&gt; &#039;HTTP_X_REQUESTED_WITH&#039;,
+			&#039;value&#039; =&gt; &#039;XMLHttpRequest&#039;
+		),
+		&#039;flash&#039; =&gt; array(
+			&#039;env&#039; =&gt; &#039;HTTP_USER_AGENT&#039;,
+			&#039;pattern&#039; =&gt; &#039;/^(Shockwave|Adobe) Flash/&#039;
+		),
+		&#039;mobile&#039; =&gt; array(
+			&#039;env&#039; =&gt; &#039;HTTP_USER_AGENT&#039;,
+			&#039;options&#039; =&gt; array(
+				[maximum depth reached]
+			)
+		),
+		&#039;requested&#039; =&gt; array(
+			&#039;param&#039; =&gt; &#039;requested&#039;,
+			&#039;value&#039; =&gt; (int) 1
+		),
+		&#039;json&#039; =&gt; array(
+			&#039;accept&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;param&#039; =&gt; &#039;ext&#039;,
+			&#039;value&#039; =&gt; &#039;json&#039;
+		),
+		&#039;xml&#039; =&gt; array(
+			&#039;accept&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;param&#039; =&gt; &#039;ext&#039;,
+			&#039;value&#039; =&gt; &#039;xml&#039;
+		)
+	)
+	[protected] _input =&gt; &#039;&#039;
+}</pre></div></li>
+	<li><a href="#" onclick="traceToggle(event, 'file-excerpt-4')">APP\webroot\index.php line 118</a> &rarr; <a href="#" onclick="traceToggle(event, 'trace-args-4')">Dispatcher->dispatch(CakeRequest, CakeResponse)</a> <div id="file-excerpt-4" class="cake-code-dump" style="display:none;"><pre><code><span style="color: #000000"><span style="color: #0000BB">$Dispatcher</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">dispatch</span><span style="color: #007700">(</span></span></code>
+<code><span style="color: #000000"><span style="color: #0000BB">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #007700">new&nbsp;</span><span style="color: #0000BB">CakeRequest</span><span style="color: #007700">(),</span></span></code>
+<code><span style="color: #000000"><span style="color: #0000BB">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #007700">new&nbsp;</span><span style="color: #0000BB">CakeResponse</span><span style="color: #007700">()</span></span></code>
+<span class="code-highlight"><code><span style="color: #000000"><span style="color: #0000BB"></span><span style="color: #007700">);</span></span></code></span>
+<code><span style="color: #000000"><span style="color: #0000BB"></span></span></code></pre></div> <div id="trace-args-4" class="cake-code-dump" style="display: none;"><pre>object(CakeRequest) {
+	params =&gt; array(
+		&#039;plugin&#039; =&gt; null,
+		&#039;controller&#039; =&gt; &#039;sections&#039;,
+		&#039;action&#039; =&gt; &#039;getByEtage&#039;,
+		&#039;named&#039; =&gt; array(),
+		&#039;pass&#039; =&gt; array(),
+		&#039;lang&#039; =&gt; &#039;fra&#039;,
+		&#039;models&#039; =&gt; array(
+			&#039;Section&#039; =&gt; array(
+				[maximum depth reached]
+			)
+		)
+	)
+	data =&gt; array(
+		&#039;Patient&#039; =&gt; array(
+			&#039;etage_id&#039; =&gt; &#039;1&#039;
+		)
+	)
+	query =&gt; array()
+	url =&gt; &#039;fra/sections/getByEtage&#039;
+	base =&gt; &#039;/centremedicale&#039;
+	webroot =&gt; &#039;/centremedicale/&#039;
+	here =&gt; &#039;/centremedicale/fra/sections/getByEtage&#039;
+	[protected] _detectors =&gt; array(
+		&#039;get&#039; =&gt; array(
+			&#039;env&#039; =&gt; &#039;REQUEST_METHOD&#039;,
+			&#039;value&#039; =&gt; &#039;GET&#039;
+		),
+		&#039;post&#039; =&gt; array(
+			&#039;env&#039; =&gt; &#039;REQUEST_METHOD&#039;,
+			&#039;value&#039; =&gt; &#039;POST&#039;
+		),
+		&#039;put&#039; =&gt; array(
+			&#039;env&#039; =&gt; &#039;REQUEST_METHOD&#039;,
+			&#039;value&#039; =&gt; &#039;PUT&#039;
+		),
+		&#039;delete&#039; =&gt; array(
+			&#039;env&#039; =&gt; &#039;REQUEST_METHOD&#039;,
+			&#039;value&#039; =&gt; &#039;DELETE&#039;
+		),
+		&#039;head&#039; =&gt; array(
+			&#039;env&#039; =&gt; &#039;REQUEST_METHOD&#039;,
+			&#039;value&#039; =&gt; &#039;HEAD&#039;
+		),
+		&#039;options&#039; =&gt; array(
+			&#039;env&#039; =&gt; &#039;REQUEST_METHOD&#039;,
+			&#039;value&#039; =&gt; &#039;OPTIONS&#039;
+		),
+		&#039;ssl&#039; =&gt; array(
+			&#039;env&#039; =&gt; &#039;HTTPS&#039;,
+			&#039;value&#039; =&gt; (int) 1
+		),
+		&#039;ajax&#039; =&gt; array(
+			&#039;env&#039; =&gt; &#039;HTTP_X_REQUESTED_WITH&#039;,
+			&#039;value&#039; =&gt; &#039;XMLHttpRequest&#039;
+		),
+		&#039;flash&#039; =&gt; array(
+			&#039;env&#039; =&gt; &#039;HTTP_USER_AGENT&#039;,
+			&#039;pattern&#039; =&gt; &#039;/^(Shockwave|Adobe) Flash/&#039;
+		),
+		&#039;mobile&#039; =&gt; array(
+			&#039;env&#039; =&gt; &#039;HTTP_USER_AGENT&#039;,
+			&#039;options&#039; =&gt; array(
+				[maximum depth reached]
+			)
+		),
+		&#039;requested&#039; =&gt; array(
+			&#039;param&#039; =&gt; &#039;requested&#039;,
+			&#039;value&#039; =&gt; (int) 1
+		),
+		&#039;json&#039; =&gt; array(
+			&#039;accept&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;param&#039; =&gt; &#039;ext&#039;,
+			&#039;value&#039; =&gt; &#039;json&#039;
+		),
+		&#039;xml&#039; =&gt; array(
+			&#039;accept&#039; =&gt; array(
+				[maximum depth reached]
+			),
+			&#039;param&#039; =&gt; &#039;ext&#039;,
+			&#039;value&#039; =&gt; &#039;xml&#039;
+		)
+	)
+	[protected] _input =&gt; &#039;&#039;
+}
+object(CakeResponse) {
+	[protected] _statusCodes =&gt; array(
+		(int) 100 =&gt; &#039;Continue&#039;,
+		(int) 101 =&gt; &#039;Switching Protocols&#039;,
+		(int) 200 =&gt; &#039;OK&#039;,
+		(int) 201 =&gt; &#039;Created&#039;,
+		(int) 202 =&gt; &#039;Accepted&#039;,
+		(int) 203 =&gt; &#039;Non-Authoritative Information&#039;,
+		(int) 204 =&gt; &#039;No Content&#039;,
+		(int) 205 =&gt; &#039;Reset Content&#039;,
+		(int) 206 =&gt; &#039;Partial Content&#039;,
+		(int) 300 =&gt; &#039;Multiple Choices&#039;,
+		(int) 301 =&gt; &#039;Moved Permanently&#039;,
+		(int) 302 =&gt; &#039;Found&#039;,
+		(int) 303 =&gt; &#039;See Other&#039;,
+		(int) 304 =&gt; &#039;Not Modified&#039;,
+		(int) 305 =&gt; &#039;Use Proxy&#039;,
+		(int) 307 =&gt; &#039;Temporary Redirect&#039;,
+		(int) 400 =&gt; &#039;Bad Request&#039;,
+		(int) 401 =&gt; &#039;Unauthorized&#039;,
+		(int) 402 =&gt; &#039;Payment Required&#039;,
+		(int) 403 =&gt; &#039;Forbidden&#039;,
+		(int) 404 =&gt; &#039;Not Found&#039;,
+		(int) 405 =&gt; &#039;Method Not Allowed&#039;,
+		(int) 406 =&gt; &#039;Not Acceptable&#039;,
+		(int) 407 =&gt; &#039;Proxy Authentication Required&#039;,
+		(int) 408 =&gt; &#039;Request Time-out&#039;,
+		(int) 409 =&gt; &#039;Conflict&#039;,
+		(int) 410 =&gt; &#039;Gone&#039;,
+		(int) 411 =&gt; &#039;Length Required&#039;,
+		(int) 412 =&gt; &#039;Precondition Failed&#039;,
+		(int) 413 =&gt; &#039;Request Entity Too Large&#039;,
+		(int) 414 =&gt; &#039;Request-URI Too Large&#039;,
+		(int) 415 =&gt; &#039;Unsupported Media Type&#039;,
+		(int) 416 =&gt; &#039;Requested range not satisfiable&#039;,
+		(int) 417 =&gt; &#039;Expectation Failed&#039;,
+		(int) 429 =&gt; &#039;Too Many Requests&#039;,
+		(int) 500 =&gt; &#039;Internal Server Error&#039;,
+		(int) 501 =&gt; &#039;Not Implemented&#039;,
+		(int) 502 =&gt; &#039;Bad Gateway&#039;,
+		(int) 503 =&gt; &#039;Service Unavailable&#039;,
+		(int) 504 =&gt; &#039;Gateway Time-out&#039;,
+		(int) 505 =&gt; &#039;Unsupported Version&#039;
+	)
+	[protected] _mimeTypes =&gt; array(
+		&#039;html&#039; =&gt; array(
+			(int) 0 =&gt; &#039;text/html&#039;,
+			(int) 1 =&gt; &#039;*/*&#039;
+		),
+		&#039;json&#039; =&gt; &#039;application/json&#039;,
+		&#039;xml&#039; =&gt; array(
+			(int) 0 =&gt; &#039;application/xml&#039;,
+			(int) 1 =&gt; &#039;text/xml&#039;
+		),
+		&#039;rss&#039; =&gt; &#039;application/rss+xml&#039;,
+		&#039;ai&#039; =&gt; &#039;application/postscript&#039;,
+		&#039;bcpio&#039; =&gt; &#039;application/x-bcpio&#039;,
+		&#039;bin&#039; =&gt; &#039;application/octet-stream&#039;,
+		&#039;ccad&#039; =&gt; &#039;application/clariscad&#039;,
+		&#039;cdf&#039; =&gt; &#039;application/x-netcdf&#039;,
+		&#039;class&#039; =&gt; &#039;application/octet-stream&#039;,
+		&#039;cpio&#039; =&gt; &#039;application/x-cpio&#039;,
+		&#039;cpt&#039; =&gt; &#039;application/mac-compactpro&#039;,
+		&#039;csh&#039; =&gt; &#039;application/x-csh&#039;,
+		&#039;csv&#039; =&gt; array(
+			(int) 0 =&gt; &#039;text/csv&#039;,
+			(int) 1 =&gt; &#039;application/vnd.ms-excel&#039;
+		),
+		&#039;dcr&#039; =&gt; &#039;application/x-director&#039;,
+		&#039;dir&#039; =&gt; &#039;application/x-director&#039;,
+		&#039;dms&#039; =&gt; &#039;application/octet-stream&#039;,
+		&#039;doc&#039; =&gt; &#039;application/msword&#039;,
+		&#039;docx&#039; =&gt; &#039;application/vnd.openxmlformats-officedocument.wordprocessingml.document&#039;,
+		&#039;drw&#039; =&gt; &#039;application/drafting&#039;,
+		&#039;dvi&#039; =&gt; &#039;application/x-dvi&#039;,
+		&#039;dwg&#039; =&gt; &#039;application/acad&#039;,
+		&#039;dxf&#039; =&gt; &#039;application/dxf&#039;,
+		&#039;dxr&#039; =&gt; &#039;application/x-director&#039;,
+		&#039;eot&#039; =&gt; &#039;application/vnd.ms-fontobject&#039;,
+		&#039;eps&#039; =&gt; &#039;application/postscript&#039;,
+		&#039;exe&#039; =&gt; &#039;application/octet-stream&#039;,
+		&#039;ez&#039; =&gt; &#039;application/andrew-inset&#039;,
+		&#039;flv&#039; =&gt; &#039;video/x-flv&#039;,
+		&#039;gtar&#039; =&gt; &#039;application/x-gtar&#039;,
+		&#039;gz&#039; =&gt; &#039;application/x-gzip&#039;,
+		&#039;bz2&#039; =&gt; &#039;application/x-bzip&#039;,
+		&#039;7z&#039; =&gt; &#039;application/x-7z-compressed&#039;,
+		&#039;hdf&#039; =&gt; &#039;application/x-hdf&#039;,
+		&#039;hqx&#039; =&gt; &#039;application/mac-binhex40&#039;,
+		&#039;ico&#039; =&gt; &#039;image/x-icon&#039;,
+		&#039;ips&#039; =&gt; &#039;application/x-ipscript&#039;,
+		&#039;ipx&#039; =&gt; &#039;application/x-ipix&#039;,
+		&#039;js&#039; =&gt; &#039;application/javascript&#039;,
+		&#039;latex&#039; =&gt; &#039;application/x-latex&#039;,
+		&#039;lha&#039; =&gt; &#039;application/octet-stream&#039;,
+		&#039;lsp&#039; =&gt; &#039;application/x-lisp&#039;,
+		&#039;lzh&#039; =&gt; &#039;application/octet-stream&#039;,
+		&#039;man&#039; =&gt; &#039;application/x-troff-man&#039;,
+		&#039;me&#039; =&gt; &#039;application/x-troff-me&#039;,
+		&#039;mif&#039; =&gt; &#039;application/vnd.mif&#039;,
+		&#039;ms&#039; =&gt; &#039;application/x-troff-ms&#039;,
+		&#039;nc&#039; =&gt; &#039;application/x-netcdf&#039;,
+		&#039;oda&#039; =&gt; &#039;application/oda&#039;,
+		&#039;otf&#039; =&gt; &#039;font/otf&#039;,
+		&#039;pdf&#039; =&gt; &#039;application/pdf&#039;,
+		&#039;pgn&#039; =&gt; &#039;application/x-chess-pgn&#039;,
+		&#039;pot&#039; =&gt; &#039;application/vnd.ms-powerpoint&#039;,
+		&#039;pps&#039; =&gt; &#039;application/vnd.ms-powerpoint&#039;,
+		&#039;ppt&#039; =&gt; &#039;application/vnd.ms-powerpoint&#039;,
+		&#039;pptx&#039; =&gt; &#039;application/vnd.openxmlformats-officedocument.presentationml.presentation&#039;,
+		&#039;ppz&#039; =&gt; &#039;application/vnd.ms-powerpoint&#039;,
+		&#039;pre&#039; =&gt; &#039;application/x-freelance&#039;,
+		&#039;prt&#039; =&gt; &#039;application/pro_eng&#039;,
+		&#039;ps&#039; =&gt; &#039;application/postscript&#039;,
+		&#039;roff&#039; =&gt; &#039;application/x-troff&#039;,
+		&#039;scm&#039; =&gt; &#039;application/x-lotusscreencam&#039;,
+		&#039;set&#039; =&gt; &#039;application/set&#039;,
+		&#039;sh&#039; =&gt; &#039;application/x-sh&#039;,
+		&#039;shar&#039; =&gt; &#039;application/x-shar&#039;,
+		&#039;sit&#039; =&gt; &#039;application/x-stuffit&#039;,
+		&#039;skd&#039; =&gt; &#039;application/x-koan&#039;,
+		&#039;skm&#039; =&gt; &#039;application/x-koan&#039;,
+		&#039;skp&#039; =&gt; &#039;application/x-koan&#039;,
+		&#039;skt&#039; =&gt; &#039;application/x-koan&#039;,
+		&#039;smi&#039; =&gt; &#039;application/smil&#039;,
+		&#039;smil&#039; =&gt; &#039;application/smil&#039;,
+		&#039;sol&#039; =&gt; &#039;application/solids&#039;,
+		&#039;spl&#039; =&gt; &#039;application/x-futuresplash&#039;,
+		&#039;src&#039; =&gt; &#039;application/x-wais-source&#039;,
+		&#039;step&#039; =&gt; &#039;application/STEP&#039;,
+		&#039;stl&#039; =&gt; &#039;application/SLA&#039;,
+		&#039;stp&#039; =&gt; &#039;application/STEP&#039;,
+		&#039;sv4cpio&#039; =&gt; &#039;application/x-sv4cpio&#039;,
+		&#039;sv4crc&#039; =&gt; &#039;application/x-sv4crc&#039;,
+		&#039;svg&#039; =&gt; &#039;image/svg+xml&#039;,
+		&#039;svgz&#039; =&gt; &#039;image/svg+xml&#039;,
+		&#039;swf&#039; =&gt; &#039;application/x-shockwave-flash&#039;,
+		&#039;t&#039; =&gt; &#039;application/x-troff&#039;,
+		&#039;tar&#039; =&gt; &#039;application/x-tar&#039;,
+		&#039;tcl&#039; =&gt; &#039;application/x-tcl&#039;,
+		&#039;tex&#039; =&gt; &#039;application/x-tex&#039;,
+		&#039;texi&#039; =&gt; &#039;application/x-texinfo&#039;,
+		&#039;texinfo&#039; =&gt; &#039;application/x-texinfo&#039;,
+		&#039;tr&#039; =&gt; &#039;application/x-troff&#039;,
+		&#039;tsp&#039; =&gt; &#039;application/dsptype&#039;,
+		&#039;ttc&#039; =&gt; &#039;font/ttf&#039;,
+		&#039;ttf&#039; =&gt; &#039;font/ttf&#039;,
+		&#039;unv&#039; =&gt; &#039;application/i-deas&#039;,
+		&#039;ustar&#039; =&gt; &#039;application/x-ustar&#039;,
+		&#039;vcd&#039; =&gt; &#039;application/x-cdlink&#039;,
+		&#039;vda&#039; =&gt; &#039;application/vda&#039;,
+		&#039;xlc&#039; =&gt; &#039;application/vnd.ms-excel&#039;,
+		&#039;xll&#039; =&gt; &#039;application/vnd.ms-excel&#039;,
+		&#039;xlm&#039; =&gt; &#039;application/vnd.ms-excel&#039;,
+		&#039;xls&#039; =&gt; &#039;application/vnd.ms-excel&#039;,
+		&#039;xlsx&#039; =&gt; &#039;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet&#039;,
+		&#039;xlw&#039; =&gt; &#039;application/vnd.ms-excel&#039;,
+		&#039;zip&#039; =&gt; &#039;application/zip&#039;,
+		&#039;aif&#039; =&gt; &#039;audio/x-aiff&#039;,
+		&#039;aifc&#039; =&gt; &#039;audio/x-aiff&#039;,
+		&#039;aiff&#039; =&gt; &#039;audio/x-aiff&#039;,
+		&#039;au&#039; =&gt; &#039;audio/basic&#039;,
+		&#039;kar&#039; =&gt; &#039;audio/midi&#039;,
+		&#039;mid&#039; =&gt; &#039;audio/midi&#039;,
+		&#039;midi&#039; =&gt; &#039;audio/midi&#039;,
+		&#039;mp2&#039; =&gt; &#039;audio/mpeg&#039;,
+		&#039;mp3&#039; =&gt; &#039;audio/mpeg&#039;,
+		&#039;mpga&#039; =&gt; &#039;audio/mpeg&#039;,
+		&#039;ogg&#039; =&gt; &#039;audio/ogg&#039;,
+		&#039;oga&#039; =&gt; &#039;audio/ogg&#039;,
+		&#039;spx&#039; =&gt; &#039;audio/ogg&#039;,
+		&#039;ra&#039; =&gt; &#039;audio/x-realaudio&#039;,
+		&#039;ram&#039; =&gt; &#039;audio/x-pn-realaudio&#039;,
+		&#039;rm&#039; =&gt; &#039;audio/x-pn-realaudio&#039;,
+		&#039;rpm&#039; =&gt; &#039;audio/x-pn-realaudio-plugin&#039;,
+		&#039;snd&#039; =&gt; &#039;audio/basic&#039;,
+		&#039;tsi&#039; =&gt; &#039;audio/TSP-audio&#039;,
+		&#039;wav&#039; =&gt; &#039;audio/x-wav&#039;,
+		&#039;aac&#039; =&gt; &#039;audio/aac&#039;,
+		&#039;asc&#039; =&gt; &#039;text/plain&#039;,
+		&#039;c&#039; =&gt; &#039;text/plain&#039;,
+		&#039;cc&#039; =&gt; &#039;text/plain&#039;,
+		&#039;css&#039; =&gt; &#039;text/css&#039;,
+		&#039;etx&#039; =&gt; &#039;text/x-setext&#039;,
+		&#039;f&#039; =&gt; &#039;text/plain&#039;,
+		&#039;f90&#039; =&gt; &#039;text/plain&#039;,
+		&#039;h&#039; =&gt; &#039;text/plain&#039;,
+		&#039;hh&#039; =&gt; &#039;text/plain&#039;,
+		&#039;htm&#039; =&gt; array(
+			(int) 0 =&gt; &#039;text/html&#039;,
+			(int) 1 =&gt; &#039;*/*&#039;
+		),
+		&#039;ics&#039; =&gt; &#039;text/calendar&#039;,
+		&#039;m&#039; =&gt; &#039;text/plain&#039;,
+		&#039;rtf&#039; =&gt; &#039;text/rtf&#039;,
+		&#039;rtx&#039; =&gt; &#039;text/richtext&#039;,
+		&#039;sgm&#039; =&gt; &#039;text/sgml&#039;,
+		&#039;sgml&#039; =&gt; &#039;text/sgml&#039;,
+		&#039;tsv&#039; =&gt; &#039;text/tab-separated-values&#039;,
+		&#039;tpl&#039; =&gt; &#039;text/template&#039;,
+		&#039;txt&#039; =&gt; &#039;text/plain&#039;,
+		&#039;text&#039; =&gt; &#039;text/plain&#039;,
+		&#039;avi&#039; =&gt; &#039;video/x-msvideo&#039;,
+		&#039;fli&#039; =&gt; &#039;video/x-fli&#039;,
+		&#039;mov&#039; =&gt; &#039;video/quicktime&#039;,
+		&#039;movie&#039; =&gt; &#039;video/x-sgi-movie&#039;,
+		&#039;mpe&#039; =&gt; &#039;video/mpeg&#039;,
+		&#039;mpeg&#039; =&gt; &#039;video/mpeg&#039;,
+		&#039;mpg&#039; =&gt; &#039;video/mpeg&#039;,
+		&#039;qt&#039; =&gt; &#039;video/quicktime&#039;,
+		&#039;viv&#039; =&gt; &#039;video/vnd.vivo&#039;,
+		&#039;vivo&#039; =&gt; &#039;video/vnd.vivo&#039;,
+		&#039;ogv&#039; =&gt; &#039;video/ogg&#039;,
+		&#039;webm&#039; =&gt; &#039;video/webm&#039;,
+		&#039;mp4&#039; =&gt; &#039;video/mp4&#039;,
+		&#039;m4v&#039; =&gt; &#039;video/mp4&#039;,
+		&#039;f4v&#039; =&gt; &#039;video/mp4&#039;,
+		&#039;f4p&#039; =&gt; &#039;video/mp4&#039;,
+		&#039;m4a&#039; =&gt; &#039;audio/mp4&#039;,
+		&#039;f4a&#039; =&gt; &#039;audio/mp4&#039;,
+		&#039;f4b&#039; =&gt; &#039;audio/mp4&#039;,
+		&#039;gif&#039; =&gt; &#039;image/gif&#039;,
+		&#039;ief&#039; =&gt; &#039;image/ief&#039;,
+		&#039;jpg&#039; =&gt; &#039;image/jpeg&#039;,
+		&#039;jpeg&#039; =&gt; &#039;image/jpeg&#039;,
+		&#039;jpe&#039; =&gt; &#039;image/jpeg&#039;,
+		&#039;pbm&#039; =&gt; &#039;image/x-portable-bitmap&#039;,
+		&#039;pgm&#039; =&gt; &#039;image/x-portable-graymap&#039;,
+		&#039;png&#039; =&gt; &#039;image/png&#039;,
+		&#039;pnm&#039; =&gt; &#039;image/x-portable-anymap&#039;,
+		&#039;ppm&#039; =&gt; &#039;image/x-portable-pixmap&#039;,
+		&#039;ras&#039; =&gt; &#039;image/cmu-raster&#039;,
+		&#039;rgb&#039; =&gt; &#039;image/x-rgb&#039;,
+		&#039;tif&#039; =&gt; &#039;image/tiff&#039;,
+		&#039;tiff&#039; =&gt; &#039;image/tiff&#039;,
+		&#039;xbm&#039; =&gt; &#039;image/x-xbitmap&#039;,
+		&#039;xpm&#039; =&gt; &#039;image/x-xpixmap&#039;,
+		&#039;xwd&#039; =&gt; &#039;image/x-xwindowdump&#039;,
+		&#039;ice&#039; =&gt; &#039;x-conference/x-cooltalk&#039;,
+		&#039;iges&#039; =&gt; &#039;model/iges&#039;,
+		&#039;igs&#039; =&gt; &#039;model/iges&#039;,
+		&#039;mesh&#039; =&gt; &#039;model/mesh&#039;,
+		&#039;msh&#039; =&gt; &#039;model/mesh&#039;,
+		&#039;silo&#039; =&gt; &#039;model/mesh&#039;,
+		&#039;vrml&#039; =&gt; &#039;model/vrml&#039;,
+		&#039;wrl&#039; =&gt; &#039;model/vrml&#039;,
+		&#039;mime&#039; =&gt; &#039;www/mime&#039;,
+		&#039;pdb&#039; =&gt; &#039;chemical/x-pdb&#039;,
+		&#039;xyz&#039; =&gt; &#039;chemical/x-pdb&#039;,
+		&#039;javascript&#039; =&gt; &#039;application/javascript&#039;,
+		&#039;form&#039; =&gt; &#039;application/x-www-form-urlencoded&#039;,
+		&#039;file&#039; =&gt; &#039;multipart/form-data&#039;,
+		&#039;xhtml&#039; =&gt; array(
+			(int) 0 =&gt; &#039;application/xhtml+xml&#039;,
+			(int) 1 =&gt; &#039;application/xhtml&#039;,
+			(int) 2 =&gt; &#039;text/xhtml&#039;
+		),
+		&#039;xhtml-mobile&#039; =&gt; &#039;application/vnd.wap.xhtml+xml&#039;,
+		&#039;atom&#039; =&gt; &#039;application/atom+xml&#039;,
+		&#039;amf&#039; =&gt; &#039;application/x-amf&#039;,
+		&#039;wap&#039; =&gt; array(
+			(int) 0 =&gt; &#039;text/vnd.wap.wml&#039;,
+			(int) 1 =&gt; &#039;text/vnd.wap.wmlscript&#039;,
+			(int) 2 =&gt; &#039;image/vnd.wap.wbmp&#039;
+		),
+		&#039;wml&#039; =&gt; &#039;text/vnd.wap.wml&#039;,
+		&#039;wmlscript&#039; =&gt; &#039;text/vnd.wap.wmlscript&#039;,
+		&#039;wbmp&#039; =&gt; &#039;image/vnd.wap.wbmp&#039;,
+		&#039;woff&#039; =&gt; &#039;application/x-font-woff&#039;,
+		&#039;webp&#039; =&gt; &#039;image/webp&#039;,
+		&#039;appcache&#039; =&gt; &#039;text/cache-manifest&#039;,
+		&#039;manifest&#039; =&gt; &#039;text/cache-manifest&#039;,
+		&#039;htc&#039; =&gt; &#039;text/x-component&#039;,
+		&#039;rdf&#039; =&gt; &#039;application/xml&#039;,
+		&#039;crx&#039; =&gt; &#039;application/x-chrome-extension&#039;,
+		&#039;oex&#039; =&gt; &#039;application/x-opera-extension&#039;,
+		&#039;xpi&#039; =&gt; &#039;application/x-xpinstall&#039;,
+		&#039;safariextz&#039; =&gt; &#039;application/octet-stream&#039;,
+		&#039;webapp&#039; =&gt; &#039;application/x-web-app-manifest+json&#039;,
+		&#039;vcf&#039; =&gt; &#039;text/x-vcard&#039;,
+		&#039;vtt&#039; =&gt; &#039;text/vtt&#039;,
+		&#039;mkv&#039; =&gt; &#039;video/x-matroska&#039;,
+		&#039;pkpass&#039; =&gt; &#039;application/vnd.apple.pkpass&#039;
+	)
+	[protected] _protocol =&gt; &#039;HTTP/1.1&#039;
+	[protected] _status =&gt; (int) 200
+	[protected] _contentType =&gt; &#039;text/html&#039;
+	[protected] _headers =&gt; array()
+	[protected] _body =&gt; null
+	[protected] _file =&gt; null
+	[protected] _fileRange =&gt; null
+	[protected] _charset =&gt; &#039;UTF-8&#039;
+	[protected] _cacheDirectives =&gt; array()
+	[protected] _cookies =&gt; array()
+}</pre></div></li>
+</ul>
+<script type="text/javascript">
+function traceToggle(event, id) {
+	var el = document.getElementById(id);
+	el.style.display = (el.style.display === 'block') ? 'none' : 'block';
+	event.preventDefault();
+	return false;
+}
+</script>
+            </div><!-- /#content .container -->
+
+            <div id="footer" class="container">
+                            </div><!-- /#footer .container -->
+
+        </div><!-- /#main-container -->
+
+
+
+
+        <div class="container">
+            <div class="well well-sm">
+                <small>
+                                    </small>
+            </div><!-- /.well well-sm -->
+        </div><!-- /.container -->
+
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+        <!-- scripts_for_layout -->
+                <!-- Js writeBuffer -->
+
+        
+
+    </body>
+
+</html>
