@@ -13,11 +13,23 @@
     </div><!-- /.navbar-header -->
     <div class="collapse navbar-collapse navbar-ex1-collapse">
         <ul class="nav navbar-nav">
-            <li class="active">
+               
+                <li class="active">  
+                    <?php    echo $this->Html->link(__("About"), array(
+                        'controller' => 'medicaments',
+                        'action' => 'about'));
+                        echo "</li><li>";
+                        ?> 
+            
+            
+            
                 <?php if ($this->Session->check('Auth.User')) {
                     echo $this->Html->link(__("Hello " ) . $this->Session->read('Auth.User.username'),
                                             array('controller' => 'users', 'action' => 'view', $this->Session->read('Auth.User.id')));
                     echo "</li><li>";
+                    
+                   
+                   
                     if ($this->Session->read('Auth.User.role') == "admin") {
                         echo $this->Html->link("[Add Employe]", array(
                             'controller' => 'users',
@@ -33,6 +45,11 @@
                         'action' => 'login')
                     );
                 }
+                
+                 
+            
+                  
+                    
                 ?>
             </li>
 
@@ -46,6 +63,7 @@
                 ?>
                 </ul>
             </li>
+            
         </ul><!-- /.nav navbar-nav -->
     </div><!-- /.navbar-collapse -->
 </nav><!-- /.navbar navbar-default -->

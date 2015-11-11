@@ -154,5 +154,9 @@ class MedicamentsController extends AppController {
 
         return parent::isAuthorized($user);
     }
+    
+      public function about() {
+          
+      }
 
 }
