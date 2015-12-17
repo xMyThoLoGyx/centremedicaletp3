@@ -60,7 +60,7 @@ class AppController extends Controller {
     );
 
     public function beforeFilter() {
-        $this->Auth->allow('index', 'view', 'display', 'home');
+        $this->Auth->allow('index', 'view', 'display', 'home', 'about');
     }
 
     public function isAuthorized($user) {

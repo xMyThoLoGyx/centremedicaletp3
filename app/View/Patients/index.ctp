@@ -1,7 +1,8 @@
 
 <div id="page-container" class="row">
 
-    <div id="sidebar" class="col-sm-3">       
+    <div id="sidebar" class="col-sm-3"> 
+            
        <?php if ($this->Session->check('Auth.User')): ?>     
         <div class="dropdown">        
             <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown"><?= __('Patients Menu') ?><span class="caret"></span></button>
@@ -69,8 +70,10 @@
                             <tr>
                                     <!-- <th><td><?php //echo h($patient['Patient']['id']);  ?>&nbsp;</td> -->
                                 <td><?php echo h($patient['Patient']['nom']); ?>&nbsp;</td>
-                                <td><?php echo h($patient['Patient']['created']); ?>&nbsp;</td>
-                                <td><?php echo h($patient['Patient']['modified']); ?>&nbsp;</td>
+                                <?php $created = $patient['Patient']['created']; ?>                         
+                                <td><?php echo is_numeric($created) ? date("Y-m-d H:i:s", $created) : h($created); ?>&nbsp;</td>
+                                <?php $modified = $patient['Patient']['modified']; ?>                         
+                                <td><?php echo is_numeric($modified) ? date("Y-m-d H:i:s", $modified) : h($modified); ?>&nbsp;</td>
                                 <td><?php 
                                 foreach ($patient['Medicament'] as $medicament) { 
                                         echo $this->Html->link($medicament['nom'], array('controller' => 'medicaments', 'action' => 'view', $medicament['id'])) ;

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg3348"
+   viewBox="0 0 744.09448819 1052.3622047"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs3350" />
+  <metadata
+     id="metadata3353">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="icon">
+      <ellipse
+         style="fill:#4d4d4d"
+         id="greyCircle"
+         cx="361.42856"
+         cy="443.7908"
+         rx="218.57143"
+         ry="211.42857" />
+      <g
+         id="redCross">
+        <rect
+           y="398.07651"
+           x="228.57143"
+           height="57.142857"
+           width="268.57144"
+           id="rect3360"
+           style="fill:#ff0000" />
+        <rect
+           y="315.21936"
+           x="328.57144"
+           height="234.28572"
+           width="71.428574"
+           id="rect3377"
+           style="fill:#ff0000" />
+      </g>
+    </g>
+  </g>
+</svg>

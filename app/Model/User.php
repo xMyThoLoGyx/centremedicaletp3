@@ -52,7 +52,7 @@ class User extends AppModel {
         ),
         'courriel' => array(
             'notBlank' => array(
-                'rule' => array('notBlank'),
+                'rule' => 'email',
             //'message' => 'Your custom message here',
             //'allowEmpty' => false,
             //'required' => false,
@@ -126,5 +126,7 @@ class User extends AppModel {
         }
         return true;
     }
+    
+    
 
 }

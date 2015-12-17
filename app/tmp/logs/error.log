@@ -1,0 +1,2612 @@
+2015-10-09 19:29:23 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php, line 68]
+2015-10-09 19:29:23 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /centremedicale/patients/add/lang:fr-fr
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 68, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 68, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-09 19:29:47 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php, line 68]
+2015-10-09 19:29:47 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /centremedicale/patients/add/lang:fr-fr
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 68, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 68, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-09 19:30:29 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php, line 68]
+2015-10-09 19:30:29 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /centremedicale/patients/add/lang:fr-fr
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 68, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 68, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-09 19:30:30 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php, line 68]
+2015-10-09 19:30:30 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /centremedicale/patients/add/lang:fr-fr
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 68, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 68, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-09 19:30:30 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php, line 68]
+2015-10-09 19:30:30 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /centremedicale/patients/add/lang:fr-fr
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 68, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 68, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-09 19:30:58 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php, line 68]
+2015-10-09 19:30:58 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /centremedicale/patients/add/lang:fr-fr
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 68, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 68, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-09 19:33:07 Error: Fatal Error (64): Cannot redeclare Patient::$belongsTo in [C:\UniServerZ\www\centremedicale\app\Model\Patient.php, line 113]
+2015-10-09 19:33:07 Error: [FatalErrorException] Cannot redeclare Patient::$belongsTo
+Request URL: /centremedicale/patients/add/lang:fr-fr
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\\UniServerZ\\w...', 113)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\\UniServerZ\\w...', 113, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'C:\\UniServerZ\\w...', 113, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-09 19:34:20 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php, line 68]
+2015-10-09 19:34:20 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /centremedicale/patients/add/lang:fr-fr
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 68, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 68, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-09 19:42:32 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\UniServerZ\www\centremedicale\app\Controller\SectionsController.php, line 11]
+2015-10-09 19:42:32 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /centremedicale/sections/getByEtage/lang:fr-fr
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 11, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 11, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-09 19:42:33 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\UniServerZ\www\centremedicale\app\Controller\SectionsController.php, line 11]
+2015-10-09 19:42:33 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /centremedicale/sections/getByEtage/lang:fr-fr
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 11, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 11, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-09 19:42:52 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\UniServerZ\www\centremedicale\app\Controller\SectionsController.php, line 11]
+2015-10-09 19:42:52 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /centremedicale/sections/getByEtage/lang:fr-fr
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 11, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 11, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-09 19:42:53 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\UniServerZ\www\centremedicale\app\Controller\SectionsController.php, line 11]
+2015-10-09 19:42:53 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /centremedicale/sections/getByEtage/lang:fr-fr
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 11, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\UniServerZ\\w...', 11, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-09 19:45:52 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/sections/getByEtage/lang:fr-fr
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-09 19:45:54 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/sections/getByEtage/lang:fr-fr
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-09 19:46:07 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/sections/getByEtage/lang:fr-fr
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-09 19:49:17 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-09 19:49:18 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-09 19:52:04 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-09 19:52:05 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-09 19:52:46 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-09 19:52:47 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-09 19:53:06 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-09 19:53:07 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-09 19:54:13 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-09 19:54:14 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-09 19:55:20 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-09 19:55:21 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-09 19:58:51 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-09 19:59:44 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-09 19:59:45 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-09 20:01:25 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-09 20:01:28 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-09 20:03:16 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-09 20:03:17 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-09 20:07:52 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-09 20:07:53 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-09 20:10:12 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-09 20:10:13 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-16 18:36:22 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/sections/getByEtage/lang:fr-fr
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-16 18:36:23 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/sections/getByEtage/lang:fr-fr
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-16 18:36:45 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/sections/getByEtage/lang:fr-fr
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-16 18:36:46 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/sections/getByEtage/lang:fr-fr
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-16 18:36:58 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-16 18:36:59 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-16 18:38:23 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-16 18:38:24 Error: [MissingViewException] View file "Sections\get_by_etage.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Sections\\get_by_etage.ctp',
+)
+Request URL: /centremedicale/fra/sections/getByEtage
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SectionsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-16 18:40:25 Error: [MissingControllerException] Controller class ErrorController could not be found.
+Exception Attributes: array (
+  'class' => 'ErrorController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/error/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-22 20:47:10 Error: [MissingActionException] Action UsersController::signup.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'signup.ctp',
+)
+Request URL: /centremedicale/users/signup.ctp
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-22 20:47:17 Error: Fatal Error (1): Call to undefined function echo__() in [C:\UniServerZ\www\centremedicale\app\View\Users\signup.ctp, line 3]
+2015-10-22 20:47:17 Error: [FatalErrorException] Call to undefined function echo__()
+Request URL: /centremedicale/users/signup
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-22 20:48:22 Error: Fatal Error (1): Call to undefined function echo__() in [C:\UniServerZ\www\centremedicale\app\View\Users\signup.ctp, line 3]
+2015-10-22 20:48:22 Error: [FatalErrorException] Call to undefined function echo__()
+Request URL: /centremedicale/users/signup
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-22 20:48:41 Error: Fatal Error (1): Call to undefined function echo__() in [C:\UniServerZ\www\centremedicale\app\View\Users\signup.ctp, line 3]
+2015-10-22 20:48:41 Error: [FatalErrorException] Call to undefined function echo__()
+Request URL: /centremedicale/users/signup
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-22 20:48:43 Error: Fatal Error (1): Call to undefined function echo__() in [C:\UniServerZ\www\centremedicale\app\View\Users\signup.ctp, line 3]
+2015-10-22 20:48:43 Error: [FatalErrorException] Call to undefined function echo__()
+Request URL: /centremedicale/users/signup
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-22 20:48:44 Error: Fatal Error (1): Call to undefined function echo__() in [C:\UniServerZ\www\centremedicale\app\View\Users\signup.ctp, line 3]
+2015-10-22 20:48:44 Error: [FatalErrorException] Call to undefined function echo__()
+Request URL: /centremedicale/users/signup
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-22 20:48:44 Error: Fatal Error (1): Call to undefined function echo__() in [C:\UniServerZ\www\centremedicale\app\View\Users\signup.ctp, line 3]
+2015-10-22 20:48:44 Error: [FatalErrorException] Call to undefined function echo__()
+Request URL: /centremedicale/users/signup
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-22 20:48:46 Error: Fatal Error (1): Call to undefined function echo__() in [C:\UniServerZ\www\centremedicale\app\View\Users\signup.ctp, line 3]
+2015-10-22 20:48:46 Error: [FatalErrorException] Call to undefined function echo__()
+Request URL: /centremedicale/users/signup
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-22 20:50:42 Error: Fatal Error (1): Call to undefined function echo__() in [C:\UniServerZ\www\centremedicale\app\View\Users\signup.ctp, line 3]
+2015-10-22 20:50:42 Error: [FatalErrorException] Call to undefined function echo__()
+Request URL: /centremedicale/users/signup
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-22 20:51:07 Error: Fatal Error (1): Call to undefined function echo__() in [C:\UniServerZ\www\centremedicale\app\View\Users\signup.ctp, line 3]
+2015-10-22 20:51:07 Error: [FatalErrorException] Call to undefined function echo__()
+Request URL: /centremedicale/users/signup
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-22 20:51:40 Error: Fatal Error (1): Call to undefined function echo__() in [C:\UniServerZ\www\centremedicale\app\View\Users\signup.ctp, line 3]
+2015-10-22 20:51:40 Error: [FatalErrorException] Call to undefined function echo__()
+Request URL: /centremedicale/users/signup
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-22 20:51:44 Error: Fatal Error (1): Call to undefined function echo__() in [C:\UniServerZ\www\centremedicale\app\View\Users\signup.ctp, line 3]
+2015-10-22 20:51:44 Error: [FatalErrorException] Call to undefined function echo__()
+Request URL: /centremedicale/users/signup
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-22 20:52:48 Error: Fatal Error (1): Call to undefined function echo__() in [C:\UniServerZ\www\centremedicale\app\View\Users\signup.ctp, line 3]
+2015-10-22 20:52:48 Error: [FatalErrorException] Call to undefined function echo__()
+Request URL: /centremedicale/users/signup
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-22 20:57:31 Error: Fatal Error (1): Call to undefined function echo__() in [C:\UniServerZ\www\centremedicale\app\View\Users\signup.ctp, line 3]
+2015-10-22 20:57:31 Error: [FatalErrorException] Call to undefined function echo__()
+Request URL: /centremedicale/users/signup
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 3, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-22 21:03:54 Error: [MissingViewException] View file "Emails\html\signup.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Emails\\html\\signup.ctp',
+)
+Request URL: /centremedicale/users/signup
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName('signup')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Network\Email\CakeEmail.php(1708): View->render('signup', 'default')
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Network\Email\CakeEmail.php(1561): CakeEmail->_renderTemplates('')
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Network\Email\CakeEmail.php(1171): CakeEmail->_render(Array)
+#4 C:\UniServerZ\www\centremedicale\app\Controller\UsersController.php(62): CakeEmail->send()
+#5 [internal function]: UsersController->signup()
+#6 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2015-10-22 21:08:03 Error: Fatal Error (1): Call to undefined method SessionComponent::setFlash__() in [C:\UniServerZ\www\centremedicale\app\Controller\UsersController.php, line 65]
+2015-10-22 21:08:03 Error: [FatalErrorException] Call to undefined method SessionComponent::setFlash__()
+Request URL: /centremedicale/users/signup
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 65)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 65, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 65, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-22 21:09:37 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\UniServerZ\www\centremedicale\app\Controller\UsersController.php, line 65]
+2015-10-22 21:09:37 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /centremedicale/users/signup
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\UniServerZ\\w...', 65)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\UniServerZ\\w...', 65, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\UniServerZ\\w...', 65, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-23 19:04:13 Error: [SocketException] You need to specify at least one destination for to, cc or bcc.
+Request URL: /centremedicale/users/add/lang:en-us
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\Controller\UsersController.php(138): CakeEmail->send('Hi,, Your Passw...')
+#1 C:\UniServerZ\www\centremedicale\app\Controller\UsersController.php(70): UsersController->send_mail(NULL, NULL, NULL)
+#2 [internal function]: UsersController->add()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#5 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#6 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2015-10-23 19:06:22 Error: [SocketException] You need to specify at least one destination for to, cc or bcc.
+Request URL: /centremedicale/users/add/lang:en-us
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\Controller\UsersController.php(138): CakeEmail->send('Hi,, Your Passw...')
+#1 C:\UniServerZ\www\centremedicale\app\Controller\UsersController.php(70): UsersController->send_mail(NULL, NULL, NULL)
+#2 [internal function]: UsersController->add()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#5 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#6 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2015-10-23 19:27:39 Error: Fatal Error (1): Call to undefined function find() in [C:\UniServerZ\www\centremedicale\app\Controller\UsersController.php, line 156]
+2015-10-23 19:27:39 Error: [FatalErrorException] Call to undefined function find()
+Request URL: /centremedicale/users/activate/22-9cdfb439c7876e703e307864c9167a15/lang:en-us
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 156)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 156, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 156, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-23 19:28:14 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') IS NULL    LIMIT 1' at line 1
+Request URL: /centremedicale/users/activate/22-9cdfb439c7876e703e307864c9167a15/lang:en-us
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT `User`.`...', Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT `User`.`...', Array, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(1114): DboSource->fetchAll('SELECT `User`.`...', false)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): DboSource->read(Object(User), Array)
+#5 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('first', Array)
+#6 C:\UniServerZ\www\centremedicale\app\Controller\UsersController.php(157): Model->find('first', Array)
+#7 [internal function]: UsersController->activate('22-9cdfb439c787...')
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#11 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-10-23 19:30:54 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') IS NULL    LIMIT 1' at line 1
+Request URL: /centremedicale/users/activate/22-9cdfb439c7876e703e307864c9167a15/lang:en-us
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT `User`.`...', Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT `User`.`...', Array, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(1114): DboSource->fetchAll('SELECT `User`.`...', false)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): DboSource->read(Object(User), Array)
+#5 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('first', Array)
+#6 C:\UniServerZ\www\centremedicale\app\Controller\UsersController.php(157): Model->find('first', Array)
+#7 [internal function]: UsersController->activate('22-9cdfb439c787...')
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#11 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-10-23 19:32:11 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') = '9cdfb439c7876e703e307864c9167a15'    LIMIT 1' at line 1
+Request URL: /centremedicale/users/activate/22-9cdfb439c7876e703e307864c9167a15/lang:en-us
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT `User`.`...', Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT `User`.`...', Array, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(1114): DboSource->fetchAll('SELECT `User`.`...', false)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): DboSource->read(Object(User), Array)
+#5 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('first', Array)
+#6 C:\UniServerZ\www\centremedicale\app\Controller\UsersController.php(157): Model->find('first', Array)
+#7 [internal function]: UsersController->activate('22-9cdfb439c787...')
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#11 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-10-23 19:33:57 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') = '9cdfb439c7876e703e307864c9167a15'    LIMIT 1' at line 1
+Request URL: /centremedicale/users/activate/22-9cdfb439c7876e703e307864c9167a15
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT `User`.`...', Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT `User`.`...', Array, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(1114): DboSource->fetchAll('SELECT `User`.`...', false)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): DboSource->read(Object(User), Array)
+#5 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('first', Array)
+#6 C:\UniServerZ\www\centremedicale\app\Controller\UsersController.php(157): Model->find('first', Array)
+#7 [internal function]: UsersController->activate('22-9cdfb439c787...')
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#11 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-10-23 19:37:19 Error: Fatal Error (1): Call to undefined method SessionComponent::setFlash__() in [C:\UniServerZ\www\centremedicale\app\Controller\UsersController.php, line 162]
+2015-10-23 19:37:19 Error: [FatalErrorException] Call to undefined method SessionComponent::setFlash__()
+Request URL: /centremedicale/users/activate/22
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 162)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 162, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 162, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-23 20:03:26 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/js/View/Medicaments/index.js
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-23 20:03:26 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/js/View/Medicaments/index.js
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-23 20:03:27 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/js/View/Medicaments/index.js
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-23 20:03:44 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/js/View/Medicaments/index.js
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-23 20:03:45 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/js/View/Medicaments/index.js
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-23 20:04:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/js/View/Medicaments/index.js
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-23 20:04:07 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/js/View/Medicaments/index.js
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-23 20:05:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/js/View/Medicaments/index.js
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-23 20:05:38 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/js/View/Medicaments/index.js
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-23 20:06:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/js/View/Medicaments/index.js
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-23 20:06:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/js/View/Medicaments/index.js
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-23 20:07:46 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/js/View/Medicaments/add.js
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-23 20:07:46 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/js/View/Medicaments/add.js
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-30 17:50:39 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'
+Request URL: /centremedicale/medicaments/add/add.json?term=b
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT `Medicam...', Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT `Medicam...', Array, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(1114): DboSource->fetchAll('SELECT `Medicam...', false)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): DboSource->read(Object(Medicament), Array)
+#5 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('list', Array)
+#6 C:\UniServerZ\www\centremedicale\app\Model\Medicament.php(71): Model->find('list', Array)
+#7 C:\UniServerZ\www\centremedicale\app\Controller\MedicamentsController.php(69): Medicament->getMedNames('b')
+#8 [internal function]: MedicamentsController->add('add')
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(MedicamentsController), Array)
+#10 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(MedicamentsController), Object(CakeRequest))
+#12 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-10-30 17:55:36 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'
+Request URL: /centremedicale/medicaments/add/index.json?term=b
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT `Medicam...', Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT `Medicam...', Array, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(1114): DboSource->fetchAll('SELECT `Medicam...', false)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): DboSource->read(Object(Medicament), Array)
+#5 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('list', Array)
+#6 C:\UniServerZ\www\centremedicale\app\Model\Medicament.php(71): Model->find('list', Array)
+#7 C:\UniServerZ\www\centremedicale\app\Controller\MedicamentsController.php(69): Medicament->getMedNames('b')
+#8 [internal function]: MedicamentsController->add('index')
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(MedicamentsController), Array)
+#10 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(MedicamentsController), Object(CakeRequest))
+#12 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-10-30 17:57:46 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'
+Request URL: /centremedicale/medicaments/add/index.json?term=b
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT `Medicam...', Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT `Medicam...', Array, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(1114): DboSource->fetchAll('SELECT `Medicam...', false)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): DboSource->read(Object(Medicament), Array)
+#5 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('list', Array)
+#6 C:\UniServerZ\www\centremedicale\app\Model\Medicament.php(71): Model->find('list', Array)
+#7 C:\UniServerZ\www\centremedicale\app\Controller\MedicamentsController.php(57): Medicament->getMedNames('b')
+#8 [internal function]: MedicamentsController->add('index')
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(MedicamentsController), Array)
+#10 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(MedicamentsController), Object(CakeRequest))
+#12 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-10-30 17:59:01 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'
+Request URL: /centremedicale/medicaments/add/index.json?term=b
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT `Medicam...', Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT `Medicam...', Array, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(1114): DboSource->fetchAll('SELECT `Medicam...', false)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): DboSource->read(Object(Medicament), Array)
+#5 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('list', Array)
+#6 C:\UniServerZ\www\centremedicale\app\Model\Medicament.php(71): Model->find('list', Array)
+#7 C:\UniServerZ\www\centremedicale\app\Controller\MedicamentsController.php(57): Medicament->getMedNames('b')
+#8 [internal function]: MedicamentsController->add('index')
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(MedicamentsController), Array)
+#10 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(MedicamentsController), Object(CakeRequest))
+#12 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-10-30 18:01:31 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'
+Request URL: /centremedicale/medicaments/add/index.json?term=b
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT `Medicam...', Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT `Medicam...', Array, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(1114): DboSource->fetchAll('SELECT `Medicam...', false)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): DboSource->read(Object(Medicament), Array)
+#5 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('list', Array)
+#6 C:\UniServerZ\www\centremedicale\app\Model\Medicament.php(71): Model->find('list', Array)
+#7 C:\UniServerZ\www\centremedicale\app\Controller\MedicamentsController.php(57): Medicament->getMedNames('b')
+#8 [internal function]: MedicamentsController->add('index')
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(MedicamentsController), Array)
+#10 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(MedicamentsController), Object(CakeRequest))
+#12 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-10-30 18:32:24 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/js/View/Medicaments/edit.js
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-30 18:32:24 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/js/View/Medicaments/edit.js
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-30 18:32:24 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/js/View/Medicaments/edit.js
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-30 18:33:27 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/js/View/Medicaments/edit.js
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-30 18:33:27 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/js/View/Medicaments/edit.js
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-30 18:43:13 Error: [CakeException] Can not determine the mimetype.
+Request URL: /centremedicale/patients/edit/2/lang:en-us
+Stack Trace:
+#0 [internal function]: Validation::mimeType(Array, Array)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Validator\CakeValidationRule.php(277): call_user_func_array(Array, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Validator\CakeValidationSet.php(135): CakeValidationRule->process('imageProfil', Array, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Model\ModelValidator.php(268): CakeValidationSet->validate(Array, true)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Model\ModelValidator.php(99): ModelValidator->errors(Array)
+#5 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3464): ModelValidator->validates(Array)
+#6 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(1829): Model->validates(Array)
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(1751): Model->_doSave(Array, Array)
+#8 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(94): Model->save(Array)
+#9 [internal function]: PatientsController->edit('2')
+#10 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#11 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#12 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#13 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2015-10-30 18:43:22 Error: [CakeException] Can not determine the mimetype.
+Request URL: /centremedicale/patients/edit/2/lang:en-us
+Stack Trace:
+#0 [internal function]: Validation::mimeType(Array, Array)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Validator\CakeValidationRule.php(277): call_user_func_array(Array, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Validator\CakeValidationSet.php(135): CakeValidationRule->process('imageProfil', Array, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Model\ModelValidator.php(268): CakeValidationSet->validate(Array, true)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Model\ModelValidator.php(99): ModelValidator->errors(Array)
+#5 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3464): ModelValidator->validates(Array)
+#6 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(1829): Model->validates(Array)
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(1751): Model->_doSave(Array, Array)
+#8 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(94): Model->save(Array)
+#9 [internal function]: PatientsController->edit('2')
+#10 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#11 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#12 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#13 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2015-10-30 18:51:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/js/View/Medicaments/edit.js
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-30 18:51:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/js/View/Medicaments/edit.js
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-30 18:56:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/js/View/Medicaments/edit.js
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-30 18:56:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/js/View/Medicaments/edit.js
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-30 18:57:27 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/js/View/Medicaments/edit.js
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-30 18:57:27 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/js/View/Medicaments/edit.js
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-11 17:12:16 Error: [MissingViewException] View file "Pages\about.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\about.ctp',
+)
+Request URL: /centremedicale/pages/about/lang:en-us
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName('about')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render('about', NULL)
+#2 C:\UniServerZ\www\centremedicale\app\Controller\PagesController.php(68): Controller->render('about')
+#3 [internal function]: PagesController->display('about')
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#7 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2015-11-11 17:20:28 Error: [MissingViewException] View file "Medicaments\about.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Medicaments\\about.ctp',
+)
+Request URL: /centremedicale/medicaments/about/lang:en-us
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(MedicamentsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-11-11 17:21:06 Error: [MissingViewException] View file "Medicaments\about.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Medicaments\\about.ctp',
+)
+Request URL: /centremedicale/medicaments/about/lang:en-us
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(MedicamentsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-11-11 17:21:07 Error: [MissingViewException] View file "Medicaments\about.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Medicaments\\about.ctp',
+)
+Request URL: /centremedicale/medicaments/about/lang:en-us
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(MedicamentsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-11-11 17:21:10 Error: [MissingViewException] View file "Medicaments\about.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Medicaments\\about.ctp',
+)
+Request URL: /centremedicale/medicaments/about/lang:en-us
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(MedicamentsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-11-11 17:21:20 Error: [MissingViewException] View file "Medicaments\about.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Medicaments\\about.ctp',
+)
+Request URL: /centremedicale/medicaments/about/lang:en-us
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(MedicamentsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-11-20 19:51:26 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/img/croixRouge.svg
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-20 19:53:55 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/img/croixRouge.svg
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-20 19:58:29 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/img/croixRouge.svg
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-20 19:59:20 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/img/croixRouge.svg
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-20 20:02:51 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/img/kiwi.svg
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-20 20:03:10 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/img/kiwi.svg
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-11-20 20:03:56 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/img/kiwi.png
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 18:11:16 Error: [MissingControllerException] Controller class ImageAnimatedController could not be found.
+Exception Attributes: array (
+  'class' => 'ImageAnimatedController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/image_animated.html
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 19:41:29 Error: [MissingControllerException] Controller class IconeController could not be found.
+Exception Attributes: array (
+  'class' => 'IconeController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/icone.svg
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 19:44:16 Error: [MissingControllerException] Controller class YoController could not be found.
+Exception Attributes: array (
+  'class' => 'YoController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/yo.com
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 19:47:46 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/img/img/icone.png
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-04 19:48:03 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/img/img/icone.svg
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-07 18:58:33 Error: [MissingViewException] View file "Medicaments\svg\about.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Medicaments\\svg\\about.ctp',
+)
+Request URL: /centremedicale/medicaments/about/icone.svg
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(MedicamentsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-12-07 19:42:20 Error: [MissingControllerException] Controller class SearchController could not be found.
+Exception Attributes: array (
+  'class' => 'SearchController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/search/CakeTestCase
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-07 19:42:59 Error: [MissingControllerException] Controller class WebrootController could not be found.
+Exception Attributes: array (
+  'class' => 'WebrootController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/webroot/test
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-07 19:43:12 Error: [MissingActionException] Action AppController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'webroot',
+)
+Request URL: /centremedicale/app/webroot/test
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AppController), Object(CakeRequest))
+#2 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-12-07 19:44:22 Error: [UnexpectedValueException] Referenced fixture class User (Test\Fixture\UserFixture.php) not found
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\Fixture\CakeFixtureManager.php(77): CakeFixtureManager->_loadFixtures(Array)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestRunner.php(57): CakeFixtureManager->fixturize(Object(PatientTest))
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteCommand.php(98): CakeTestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteDispatcher.php(259): CakeTestSuiteCommand->run(Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteDispatcher.php(96): CakeTestSuiteDispatcher->_runTestCase()
+#5 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteDispatcher.php(113): CakeTestSuiteDispatcher->dispatch()
+#6 C:\UniServerZ\www\centremedicale\app\webroot\test.php(108): CakeTestSuiteDispatcher::run()
+#7 {main}
+2015-12-07 19:47:33 Error: [UnexpectedValueException] Referenced fixture class PatientsMedicament (Test\Fixture\PatientsMedicamentFixture.php) not found
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\Fixture\CakeFixtureManager.php(77): CakeFixtureManager->_loadFixtures(Array)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestRunner.php(57): CakeFixtureManager->fixturize(Object(PatientTest))
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteCommand.php(98): CakeTestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteDispatcher.php(259): CakeTestSuiteCommand->run(Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteDispatcher.php(96): CakeTestSuiteDispatcher->_runTestCase()
+#5 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteDispatcher.php(113): CakeTestSuiteDispatcher->dispatch()
+#6 C:\UniServerZ\www\centremedicale\app\webroot\test.php(108): CakeTestSuiteDispatcher::run()
+#7 {main}
+2015-12-08 15:55:24 Error: [MissingActionException] Action AppController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'webroot',
+)
+Request URL: /centremedicale/app/webroot/test
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AppController), Object(CakeRequest))
+#2 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-12-08 15:55:43 Error: Fatal Error (1): Class 'Medicament' not found in [C:\UniServerZ\www\centremedicale\app\Test\Case\Model\PatientTest.php, line 51]
+2015-12-08 15:55:43 Error: [FatalErrorException] Class 'Medicament' not found
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'Medicame...', 'C:\\UniServerZ\\w...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Medicame...', 'C:\\UniServerZ\\w...', 51, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'Medicame...', 'C:\\UniServerZ\\w...', 51, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-08 15:57:02 Error: Fatal Error (1): Class 'Medicament' not found in [C:\UniServerZ\www\centremedicale\app\Test\Case\Model\PatientTest.php, line 51]
+2015-12-08 15:57:02 Error: [FatalErrorException] Class 'Medicament' not found
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'Medicame...', 'C:\\UniServerZ\\w...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Medicame...', 'C:\\UniServerZ\\w...', 51, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'Medicame...', 'C:\\UniServerZ\\w...', 51, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-08 16:00:11 Error: Fatal Error (1): Class 'User' not found in [C:\UniServerZ\www\centremedicale\app\Test\Case\Model\PatientTest.php, line 52]
+2015-12-08 16:00:11 Error: [FatalErrorException] Class 'User' not found
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'User' no...', 'C:\\UniServerZ\\w...', 52)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'User' no...', 'C:\\UniServerZ\\w...', 52, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'User' no...', 'C:\\UniServerZ\\w...', 52, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-08 16:44:20 Error: [MissingActionException] Action AppController::Test() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'Test',
+)
+Request URL: /centremedicale/app/Test/Case/Controller/SectionsControllerTest.php
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AppController), Object(CakeRequest))
+#2 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-12-08 17:10:32 Error: Fatal Error (1): Call to undefined function assertTrue() in [C:\UniServerZ\www\centremedicale\app\Test\Case\Model\MedicamentTest.php, line 50]
+2015-12-08 17:10:32 Error: [FatalErrorException] Call to undefined function assertTrue()
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 50)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 50, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 50, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-11 19:52:22 Error: [MissingViewException] View file "Medicaments\svg\about.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Medicaments\\svg\\about.ctp',
+)
+Request URL: /centremedicale/medicaments/about/icone.svg
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(MedicamentsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-12-15 13:08:04 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.
+',
+  'enabled' => true,
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(260): Mysql->connect()
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3621): ConnectionManager::getDataSource('default')
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#5 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#6 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#9 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#10 [internal function]: PatientsController->index()
+#11 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#12 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#13 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#14 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2015-12-15 13:08:59 Error: [MissingViewException] View file "Medicaments\svg\about.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Medicaments\\svg\\about.ctp',
+)
+Request URL: /centremedicale/medicaments/about/icone.svg
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(MedicamentsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-12-15 13:36:05 Error: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'test.patients' doesn't exist
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('TRUNCATE TABLE ...', Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(2271): DboSource->execute('TRUNCATE TABLE ...')
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\Fixture\CakeTestFixture.php(331): DboSource->truncate('patients')
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\Fixture\CakeFixtureManager.php(232): CakeTestFixture->truncate(Object(Mysql))
+#5 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestCase.php(80): CakeFixtureManager->load(Object(PatientTest))
+#6 C:\UniServerZ\www\centremedicale\vendors\phpunit\phpunit\PHPUnit\Framework\TestSuite.php(779): CakeTestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 C:\UniServerZ\www\centremedicale\vendors\phpunit\phpunit\PHPUnit\Framework\TestSuite.php(749): PHPUnit_Framework_TestSuite->runTest(Object(PatientTest), Object(PHPUnit_Framework_TestResult))
+#8 C:\UniServerZ\www\centremedicale\vendors\phpunit\phpunit\PHPUnit\TextUI\TestRunner.php(350): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult), false, Array, Array, false)
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestRunner.php(62): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#10 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteCommand.php(98): CakeTestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#11 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteDispatcher.php(259): CakeTestSuiteCommand->run(Array)
+#12 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteDispatcher.php(96): CakeTestSuiteDispatcher->_runTestCase()
+#13 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteDispatcher.php(113): CakeTestSuiteDispatcher->dispatch()
+#14 C:\UniServerZ\www\centremedicale\app\webroot\test.php(108): CakeTestSuiteDispatcher::run()
+#15 {main}
+2015-12-15 13:36:06 Error: Fixture creation for "patients" failed "SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'patients' already exists"
+2015-12-15 13:36:07 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(3190): PDOStatement->execute()
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\Fixture\CakeTestFixture.php(307): DboSource->insertMulti('patients', Array, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\Fixture\CakeFixtureManager.php(233): CakeTestFixture->insert(Object(Mysql))
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestCase.php(80): CakeFixtureManager->load(Object(PatientTest))
+#4 C:\UniServerZ\www\centremedicale\vendors\phpunit\phpunit\PHPUnit\Framework\TestSuite.php(779): CakeTestCase->run(Object(PHPUnit_Framework_TestResult))
+#5 C:\UniServerZ\www\centremedicale\vendors\phpunit\phpunit\PHPUnit\Framework\TestSuite.php(749): PHPUnit_Framework_TestSuite->runTest(Object(PatientTest), Object(PHPUnit_Framework_TestResult))
+#6 C:\UniServerZ\www\centremedicale\vendors\phpunit\phpunit\PHPUnit\TextUI\TestRunner.php(350): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult), false, Array, Array, false)
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestRunner.php(62): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteCommand.php(98): CakeTestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteDispatcher.php(259): CakeTestSuiteCommand->run(Array)
+#10 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteDispatcher.php(96): CakeTestSuiteDispatcher->_runTestCase()
+#11 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteDispatcher.php(113): CakeTestSuiteDispatcher->dispatch()
+#12 C:\UniServerZ\www\centremedicale\app\webroot\test.php(108): CakeTestSuiteDispatcher::run()
+#13 {main}
+2015-12-15 13:36:32 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(3190): PDOStatement->execute()
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\Fixture\CakeTestFixture.php(307): DboSource->insertMulti('sections', Array, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\Fixture\CakeFixtureManager.php(233): CakeTestFixture->insert(Object(Mysql))
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestCase.php(80): CakeFixtureManager->load(Object(PatientTest))
+#4 C:\UniServerZ\www\centremedicale\vendors\phpunit\phpunit\PHPUnit\Framework\TestSuite.php(779): CakeTestCase->run(Object(PHPUnit_Framework_TestResult))
+#5 C:\UniServerZ\www\centremedicale\vendors\phpunit\phpunit\PHPUnit\Framework\TestSuite.php(749): PHPUnit_Framework_TestSuite->runTest(Object(PatientTest), Object(PHPUnit_Framework_TestResult))
+#6 C:\UniServerZ\www\centremedicale\vendors\phpunit\phpunit\PHPUnit\TextUI\TestRunner.php(350): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult), false, Array, Array, false)
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestRunner.php(62): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteCommand.php(98): CakeTestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteDispatcher.php(259): CakeTestSuiteCommand->run(Array)
+#10 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteDispatcher.php(96): CakeTestSuiteDispatcher->_runTestCase()
+#11 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteDispatcher.php(113): CakeTestSuiteDispatcher->dispatch()
+#12 C:\UniServerZ\www\centremedicale\app\webroot\test.php(108): CakeTestSuiteDispatcher::run()
+#13 {main}
+2015-12-15 13:36:55 Error: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'test.sections' doesn't exist
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('TRUNCATE TABLE ...', Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(2271): DboSource->execute('TRUNCATE TABLE ...')
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\Fixture\CakeTestFixture.php(331): DboSource->truncate('sections')
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\Fixture\CakeFixtureManager.php(253): CakeTestFixture->truncate(Object(Mysql))
+#5 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestCase.php(84): CakeFixtureManager->unload(Object(PatientTest))
+#6 C:\UniServerZ\www\centremedicale\vendors\phpunit\phpunit\PHPUnit\Framework\TestSuite.php(779): CakeTestCase->run(Object(PHPUnit_Framework_TestResult))
+#7 C:\UniServerZ\www\centremedicale\vendors\phpunit\phpunit\PHPUnit\Framework\TestSuite.php(749): PHPUnit_Framework_TestSuite->runTest(Object(PatientTest), Object(PHPUnit_Framework_TestResult))
+#8 C:\UniServerZ\www\centremedicale\vendors\phpunit\phpunit\PHPUnit\TextUI\TestRunner.php(350): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult), false, Array, Array, false)
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestRunner.php(62): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#10 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteCommand.php(98): CakeTestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#11 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteDispatcher.php(259): CakeTestSuiteCommand->run(Array)
+#12 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteDispatcher.php(96): CakeTestSuiteDispatcher->_runTestCase()
+#13 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteDispatcher.php(113): CakeTestSuiteDispatcher->dispatch()
+#14 C:\UniServerZ\www\centremedicale\app\webroot\test.php(108): CakeTestSuiteDispatcher::run()
+#15 {main}
+2015-12-15 14:38:51 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:39:20 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:40:01 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:40:20 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:40:22 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:40:23 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:40:23 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:40:24 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:40:52 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:42:50 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:42:51 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:42:51 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:42:52 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:42:53 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:43:44 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:44:51 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:44:53 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:44:55 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:44:56 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:44:58 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:52:52 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:52:53 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:52:54 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:52:55 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:52:55 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:52:56 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:52:56 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:52:57 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:52:57 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:52:58 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:52:58 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:52:59 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:52:59 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:53:00 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:53:00 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:53:01 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:53:01 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:53:01 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:53:02 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:53:02 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:53:02 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:53:02 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:53:03 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 14:55:34 Error: [MissingTableException] Table patients for model Patient was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'patients',
+  'class' => 'Patient',
+  'ds' => 'default',
+)
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3648): Model->setSource('patients')
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(3026): Model->getDataSource()
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Model.php(2998): Model->_readDataSource('all', Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#5 C:\UniServerZ\www\centremedicale\app\Controller\PatientsController.php(29): Controller->paginate()
+#6 [internal function]: PatientsController->index()
+#7 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PatientsController), Array)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PatientsController), Object(CakeRequest))
+#10 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-12-15 15:28:45 Error: [MissingViewException] View file "Medicaments\svg\about.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Medicaments\\svg\\about.ctp',
+)
+Request URL: /centremedicale/medicaments/about/icone.svg
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(MedicamentsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-12-15 15:28:55 Error: [MissingViewException] View file "Medicaments\svg\about.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Medicaments\\svg\\about.ctp',
+)
+Request URL: /centremedicale/medicaments/about/img/icone.svg
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(MedicamentsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-12-15 15:29:55 Error: [MissingViewException] View file "Medicaments\svg\about.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Medicaments\\svg\\about.ctp',
+)
+Request URL: /centremedicale/medicaments/about/image/icone.svg
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(MedicamentsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-12-15 15:30:43 Error: [MissingViewException] View file "Medicaments\svg\about.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Medicaments\\svg\\about.ctp',
+)
+Request URL: /centremedicale/medicaments/about/img/icone.svg
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(MedicamentsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-12-15 15:31:23 Error: [MissingViewException] View file "Medicaments\svg\about.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Medicaments\\svg\\about.ctp',
+)
+Request URL: /centremedicale/medicaments/about/icone.svg
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(MedicamentsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-12-15 15:32:33 Error: [MissingViewException] View file "Medicaments\svg\about.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Medicaments\\svg\\about.ctp',
+)
+Request URL: /centremedicale/medicaments/about/icone.svg
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(MedicamentsController), Object(CakeRequest))
+#4 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-12-15 16:11:04 Error: Fixture creation for "sections" failed "SQLSTATE[HY000]: General error: 1 table "sections" already exists"
+2015-12-15 16:11:04 Error: [PDOException] SQLSTATE[HY000]: General error: 5 database is locked
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\Database\Sqlite.php(234): DboSource->_execute('DELETE FROM sql...')
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\Fixture\CakeTestFixture.php(331): Sqlite->truncate('sections')
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\Fixture\CakeFixtureManager.php(232): CakeTestFixture->truncate(Object(Sqlite))
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestCase.php(80): CakeFixtureManager->load(Object(SectionsControllerTest))
+#5 C:\UniServerZ\www\centremedicale\vendors\phpunit\phpunit\PHPUnit\Framework\TestSuite.php(779): CakeTestCase->run(Object(PHPUnit_Framework_TestResult))
+#6 C:\UniServerZ\www\centremedicale\vendors\phpunit\phpunit\PHPUnit\Framework\TestSuite.php(749): PHPUnit_Framework_TestSuite->runTest(Object(SectionsControllerTest), Object(PHPUnit_Framework_TestResult))
+#7 C:\UniServerZ\www\centremedicale\vendors\phpunit\phpunit\PHPUnit\TextUI\TestRunner.php(350): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult), false, Array, Array, false)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestRunner.php(62): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteCommand.php(98): CakeTestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#10 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteDispatcher.php(259): CakeTestSuiteCommand->run(Array)
+#11 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteDispatcher.php(96): CakeTestSuiteDispatcher->_runTestCase()
+#12 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteDispatcher.php(113): CakeTestSuiteDispatcher->dispatch()
+#13 C:\UniServerZ\www\centremedicale\app\webroot\test.php(108): CakeTestSuiteDispatcher::run()
+#14 {main}
+2015-12-15 16:11:09 Error: Fixture creation for "sections" failed "SQLSTATE[HY000]: General error: 1 table "sections" already exists"
+2015-12-15 16:11:09 Error: [PDOException] SQLSTATE[HY000]: General error: 5 database is locked
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\UniServerZ\www\centremedicale\lib\Cake\Model\Datasource\Database\Sqlite.php(234): DboSource->_execute('DELETE FROM sql...')
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\Fixture\CakeTestFixture.php(331): Sqlite->truncate('sections')
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\Fixture\CakeFixtureManager.php(232): CakeTestFixture->truncate(Object(Sqlite))
+#4 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestCase.php(80): CakeFixtureManager->load(Object(SectionsControllerTest))
+#5 C:\UniServerZ\www\centremedicale\vendors\phpunit\phpunit\PHPUnit\Framework\TestSuite.php(779): CakeTestCase->run(Object(PHPUnit_Framework_TestResult))
+#6 C:\UniServerZ\www\centremedicale\vendors\phpunit\phpunit\PHPUnit\Framework\TestSuite.php(749): PHPUnit_Framework_TestSuite->runTest(Object(SectionsControllerTest), Object(PHPUnit_Framework_TestResult))
+#7 C:\UniServerZ\www\centremedicale\vendors\phpunit\phpunit\PHPUnit\TextUI\TestRunner.php(350): PHPUnit_Framework_TestSuite->run(Object(PHPUnit_Framework_TestResult), false, Array, Array, false)
+#8 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestRunner.php(62): PHPUnit_TextUI_TestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#9 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteCommand.php(98): CakeTestRunner->doRun(Object(PHPUnit_Framework_TestSuite), Array)
+#10 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteDispatcher.php(259): CakeTestSuiteCommand->run(Array)
+#11 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteDispatcher.php(96): CakeTestSuiteDispatcher->_runTestCase()
+#12 C:\UniServerZ\www\centremedicale\lib\Cake\TestSuite\CakeTestSuiteDispatcher.php(113): CakeTestSuiteDispatcher->dispatch()
+#13 C:\UniServerZ\www\centremedicale\app\webroot\test.php(108): CakeTestSuiteDispatcher::run()
+#14 {main}
+2015-12-17 14:35:48 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [C:\UniServerZ\www\centremedicale\lib\Cake\Config\config.php, line 19]
+2015-12-17 14:35:48 Error: [FatalErrorException] Maximum execution time of 30 seconds exceeded
+Request URL: /centremedicale/
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'C:\\UniServerZ\\w...', 19)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'C:\\UniServerZ\\w...', 19, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'C:\\UniServerZ\\w...', 19, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-17 14:38:16 Error: [MissingControllerException] Controller class WebrootController could not be found.
+Exception Attributes: array (
+  'class' => 'WebrootController',
+  'plugin' => NULL,
+)
+Request URL: /centremedicale/webroot/test.php
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-17 14:38:39 Error: Fatal Error (4): syntax error, unexpected '=' in [C:\UniServerZ\www\centremedicale\app\Test\Case\Model\PatientTest.php, line 154]
+2015-12-17 14:38:39 Error: [FatalErrorException] syntax error, unexpected '='
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\UniServerZ\\w...', 154)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\UniServerZ\\w...', 154, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\UniServerZ\\w...', 154, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-17 14:38:43 Error: Fatal Error (4): syntax error, unexpected '=' in [C:\UniServerZ\www\centremedicale\app\Test\Case\Model\PatientTest.php, line 154]
+2015-12-17 14:38:43 Error: [FatalErrorException] syntax error, unexpected '='
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\UniServerZ\\w...', 154)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\UniServerZ\\w...', 154, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\UniServerZ\\w...', 154, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-17 14:51:40 Error: Fatal Error (1): Call to undefined function isEmpty() in [C:\UniServerZ\www\centremedicale\app\Test\Case\Model\MedicamentTest.php, line 68]
+2015-12-17 14:51:40 Error: [FatalErrorException] Call to undefined function isEmpty()
+Stack Trace:
+#0 C:\UniServerZ\www\centremedicale\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 68, Array)
+#2 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\UniServerZ\\w...', 68, Array)
+#3 C:\UniServerZ\www\centremedicale\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}

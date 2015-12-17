@@ -67,48 +67,34 @@
  * A key/value array of driver specific connection options.
  */
 
-        
+        define('DEFAULT_DB', APP.DS.'sqlite'.DS.'default.sqlite');
+        define('TEST_DB', APP.DS.'sqlite'.DS.'test.sqlite');
+
         
         class DATABASE_CONFIG {
-            
-        public $default = array(
-                'datasource' => 'Database/Mysql',
-                'persistent' => false,
-                'host'       => '',
-                'port'       => '',
-                'login'      => '',
-                'password'   => '',
-                'database'   => '',
-                'prefix'     => '',
-                //'encoding' => 'utf8',
-        );
-        public $test = array(
-                'datasource' => 'Database/Mysql',
-                'persistent' => false,
-                'host'       => '',
-		'port'       => '',
-                'login'      => '',
-                'password'   => '',
-                'database'   => '',
-                'prefix'     => '',
-                //'encoding' => 'utf8',
-        );
+
+         public $default = array(
+        'datasource' => 'Database/Sqlite',
+        'persistent' => false,
+        'database' => DEFAULT_DB,
+        'prefix' => '',
+        //'encoding' =&gt; 'utf8',
+         );   
+         public $test = array(
+        'datasource' => 'Database/Sqlite',
+        'persistent' => false,
+        'database' => TEST_DB,
+        'prefix' => '',
+        //'encoding' =&gt; 'utf8',
+         ); 
+         
 	public function __construct() {
                if (getenv("OPENSHIFT_MYSQL_DB_HOST")):
 	           $this->default['host']       = getenv("OPENSHIFT_MYSQL_DB_HOST");
 	           $this->default['port']       = getenv("OPENSHIFT_MYSQL_DB_PORT");
 	           $this->default['login']      = getenv("OPENSHIFT_MYSQL_DB_USERNAME");
 	           $this->default['password']   = getenv("OPENSHIFT_MYSQL_DB_PASSWORD");
-	           $this->default['database']   = getenv("OPENSHIFT_APP_NAME");
-                  
-                   
-	       else:
-	           $this->default['host']       = "localhost";
-	           $this->default['port']       = "3306";
-	           $this->default['login']      = "root";
-	           $this->default['password']   = "root";
-	           $this->default['database']   = "centremedicale";
-                   
+	           $this->default['database']   = getenv("OPENSHIFT_APP_NAME");                
 	       endif;
 	}
 }

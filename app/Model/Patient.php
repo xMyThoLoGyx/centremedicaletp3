@@ -166,6 +166,19 @@ class Patient extends AppModel {
 
 	return TRUE;
 }
+
+        public function is_uploaded_file($tmp_name) {
+		return is_uploaded_file($tmp_name);
+	}
+
+	/**
+	 * Wrapper method for 'move_uploaded_file' to allow testing
+	 * @param string $from
+	 * @param string $to
+	 */
+	public function move_uploaded_file($from, $to) {
+		return move_uploaded_file($from, $to);
+	}
     
     
 

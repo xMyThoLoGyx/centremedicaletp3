@@ -21,10 +21,14 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 <html>
     <head>
         <?php echo $this->Html->charset(); ?>
+        
         <title>
             <?php echo $cakeDescription ?>:
             <?php echo $title_for_layout; ?>
         </title>
+        
+        
+        
         <?php
         echo $this->Html->meta('icon');
 
@@ -42,16 +46,19 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 
         echo $this->fetch('script');
         ?>
+        
+        
     </head>
 
     <body>
 
         <div id="main-container">
-
-            <div id="header" class="container">
-                <?php echo $this->element('menu/top_menu'); ?>
+            <div id="header" class="container">              
+                <?php echo $this->element('menu/top_menu'); ?>      
             </div><!-- /#header .container -->
-
+            
+            
+            
             <div id="content" class="container">
                 <?php echo $this->Session->flash(); ?>                             
                 <?php echo $this->fetch('content'); ?>

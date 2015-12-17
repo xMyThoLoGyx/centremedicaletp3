@@ -81,8 +81,10 @@
                                 <tr>
 
                                     <td><?php echo $patient['nom']; ?></td>
-                                    <td><?php echo $patient['created']; ?></td>
-                                    <td><?php echo $patient['modified']; ?></td>
+                                    <?php $created = $patient['created']; ?>                         
+                                    <td><?php echo is_numeric($created) ? date("Y-m-d H:i:s", $created) : h($created); ?>&nbsp;</td>
+                                    <?php $modified = $patient['modified']; ?>                         
+                                    <td><?php echo is_numeric($modified) ? date("Y-m-d H:i:s", $modified) : h($modified); ?>&nbsp;</td>
 
                                     <td class="actions">
                                         <?php echo $this->Html->link(__('View'), array('controller' => 'patients', 'action' => 'view', $patient['id']), array('class' => 'btn btn-default btn-xs')); ?>

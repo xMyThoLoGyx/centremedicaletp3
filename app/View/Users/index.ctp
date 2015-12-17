@@ -36,8 +36,10 @@
                                 <td><?php echo h($user['User']['username']); ?>&nbsp;</td>
                                 <!--<td><?php //echo h($user['User']['password']);   ?>&nbsp;</td> -->
                                 <td><?php echo h($user['User']['role']); ?>&nbsp;</td>
-                                <td><?php echo h($user['User']['created']); ?>&nbsp;</td>
-                                <td><?php echo h($user['User']['modified']); ?>&nbsp;</td>
+                                <?php $created = $user['User']['created']; ?>                         
+                                <td><?php echo is_numeric($created) ? date("Y-m-d H:i:s", $created) : h($created); ?>&nbsp;</td>
+                                <?php $modified = $user['User']['modified']; ?>                         
+                                <td><?php echo is_numeric($modified) ? date("Y-m-d H:i:s", $modified) : h($modified); ?>&nbsp;</td>
                                 <td class="actions">
                                     <?php echo $this->Html->link(__('View'), array('action' => 'view', $user['User']['id']), array('class' => 'btn btn-default btn-xs')); ?>
                                     
