@@ -64,4 +64,4 @@
     
     
     
-    <p>  <?php echo " GitHub: https://github.com/xMyThoLoGyx/centremedicaleopenshift"; ?> </p>
+    <p>  <?php echo " GitHub: https://github.com/xMyThoLoGyx/centremedicaletp3"; ?> </p>
